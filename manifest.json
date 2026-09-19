@@ -1,0 +1,3875 @@
+{
+  "mirrored": "2026-09-19",
+  "source": "Internet Archive Wayback Machine",
+  "original": "https://hdl.handle.net/11256/940",
+  "snapshot": "https://web.archive.org/web/20230108232657/https://materialsdata.nist.gov/handle/11256/940",
+  "license": "Creative Commons Attribution 3.0 United States (CC BY 3.0 US)",
+  "license_url": "https://creativecommons.org/licenses/by/3.0/us/",
+  "citation": "B. L. DeCost, M. D. Hecht, T. Francis, B. A. Webler, Y. N. Picard, E. A. Holm, UHCSDB: UltraHigh Carbon Steel Micrograph DataBase, Integrating Materials and Manufacturing Innovation 6, 197-205 (2017). doi:10.1007/s40192-017-0097-0",
+  "files": {
+    "LICENSE": {
+      "sha256": "13c88a230c8a94fc5f26bc8283117dafce38a740dabbf9741b270e51fb6ce6a2",
+      "bytes": 776
+    },
+    "README.md": {
+      "sha256": "8e11358d7dc7f52c23934b2b5371a54fa4ae4f8d228f51473239f699880690f8",
+      "bytes": 2131
+    },
+    "metadata.csv": {
+      "sha256": "0f7d05f3e99de20a4b2c70a50cf8826ef7efffd0e4cccdf478bbca5d06f46d2e",
+      "bytes": 82386
+    },
+    "micrographs/micrograph1.tif": {
+      "sha256": "c078fb1d7d158fd5fa3336c0876d78a6a3c7dcb3c38cc97dfb78e8da7c9d7f83",
+      "bytes": 345057
+    },
+    "micrographs/micrograph10.png": {
+      "sha256": "8ec7735fd2937d69da70c64cd21628720389a928fc8aafc82bf07ed02e823527",
+      "bytes": 290712
+    },
+    "micrographs/micrograph1001.tif": {
+      "sha256": "5a7909b14747cbb3b31b033abf1b1213ddc19f8e8d39c7c8501d4faeb4fa2e03",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1003.tif": {
+      "sha256": "c84a08573dfa0654fcecf605b570a54cf57eacc2713bf17761bb1df6390f111b",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1005.tif": {
+      "sha256": "cb0a34070afb5e827647e4f952f0234c4cf389561d51b6416e13f7ef21f14b21",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1006.tif": {
+      "sha256": "a51e414d418fa5f88338ec755d65ddc714a68be0b9ddd2e89efed4bd33895a00",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1008.tif": {
+      "sha256": "08e9feaee9db07455abb23347495770f17376e6e82d3bd64957aed10ca063c92",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1009.tif": {
+      "sha256": "b0e51cd349357d8073c804c719cafd8916e1651b2dd2d7a161e709a0f64a1bd4",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1010.tif": {
+      "sha256": "e8ff5ed480c73902f01b46cd2eb614d77e10c28d962ba4aef5a5aa05f797d476",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1011.tif": {
+      "sha256": "6ee6768edeb2f2bc2c8f4b3ba2919f6b2ad0ce5bb9116b33bd561727421ddcfe",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1012.tif": {
+      "sha256": "7c0563cccc5ac40aafc754755846f6d3c6747f6ce3a09a5041ca81630a2d7077",
+      "bytes": 345073
+    },
+    "micrographs/micrograph1013.tif": {
+      "sha256": "0c868b003127562efd0ef3318c0669655bb287f0a98e0f5b878ba0a5ae298932",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1015.tif": {
+      "sha256": "12c7bc4c3e3c17f3388212cd88d1f6cd3dd3fa3002f35520cbac3a429896e38e",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1017.tif": {
+      "sha256": "f221c600df50552818828314d3a75e269ec6e88eef7ac3c8a65d6f906a469bc1",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1018.tif": {
+      "sha256": "83f9974a88366579b8c1dab4f28837e92d6ec5c78cbb5f331b1e5c0c43a57149",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1019.tif": {
+      "sha256": "6a582d95475d41f02c410b7e02b8bd43cf44cc182fc1c3ff041e949a5e94b201",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1020.tif": {
+      "sha256": "c92b21e10090cfc9544a3f6051cf7d0ecb55226b5f4e905c9dcb678269fc0dd2",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1022.png": {
+      "sha256": "71b769a69613cf05c6318ea6e19693b5348ff0ce4e5eb4d71e06711751d9097b",
+      "bytes": 299196
+    },
+    "micrographs/micrograph1023.tif": {
+      "sha256": "2d8aa77e634300610a3c7f36c20ab00b25b8d7f6d9df24f5400fa1aea76de820",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1025.tif": {
+      "sha256": "c94b9081c4bf2cd2537d1173605dacf76511327c3b637021f758be94d08bb501",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1026.tif": {
+      "sha256": "cd8875f7e492b093caa3a0a422686e4f929b92322e31fd2a82224c4c72f8a5d8",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1027.tif": {
+      "sha256": "62b0f9951e2eef620ed8a981f7ac44576bffb4fe7f6770a87c969ec5494cee67",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1028.tif": {
+      "sha256": "fee4b346a5bd71f9b17e6e2f1952f9340ea35640941220e95813a501c5ab8569",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1030.tif": {
+      "sha256": "4a3027ca29dc9cbda8539b010a3c2eb73841219544cb32713f1b5ae58b3fa07b",
+      "bytes": 345073
+    },
+    "micrographs/micrograph1031.tif": {
+      "sha256": "6759a46e2b255ab7b017d505603c81b9e52865df8ea175eb67574288223606ef",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1032.png": {
+      "sha256": "a0f85b394d695316b3513fe4d4440a2cc6726fc1d43dc2e60334aecb1868144d",
+      "bytes": 284048
+    },
+    "micrographs/micrograph1033.tif": {
+      "sha256": "c80bb7abd3526c13ad3cb934b9e4b7ba6e41a0d37c1aaa54e671cb8a46e44f49",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1035.tif": {
+      "sha256": "de43fea4d67704839a8c27b6ff4c40dd419a9732b680476d51725db869f6da19",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1038.tif": {
+      "sha256": "ed204bce431018d9247e7109b6b25a942a95bb69167f47d83f31e5b4e32c8083",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1039.tif": {
+      "sha256": "d4231b964ec10a4b136f7cd43bb634539d0c683a1fdc763745c4605286a466a8",
+      "bytes": 345057
+    },
+    "micrographs/micrograph104.tif": {
+      "sha256": "263e65e1bdfd30c3beeefdf25666627f087ef1419a3ee6df8d9e75d585c5e8ff",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1040.tif": {
+      "sha256": "56e88c4c7a1dc94901a84eee7838124e4efe4cd1e031bdf38540de7292b48541",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1045.png": {
+      "sha256": "c7cd4257cbda17b873070cff58ec32707c849cc12d0cfe57bc1f11ab77e8fda1",
+      "bytes": 280099
+    },
+    "micrographs/micrograph1046.tif": {
+      "sha256": "79071c2f04c396ce27722f574b542ff5ab300540095fd912b8418e3d661070f7",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1048.tif": {
+      "sha256": "f6664c3fb30a4ed403a0600352af526f86e1e5dcd765f08b88aabbb6fb32a357",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1049.tif": {
+      "sha256": "cebd270f57bb94d6ab7e9b647b8359a0f67848134fdf1a7c7962a775bca8b5a2",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1052.tif": {
+      "sha256": "ad89ffafa514ad03cd9e93158eb62bad83da254db207f173d96d48a962b7e83f",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1053.tif": {
+      "sha256": "115f2eaed64f00310a518b9d5a3e6f060874cda305d34b25534dfe29bc31cd71",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1054.tif": {
+      "sha256": "4b336bab84acb593a4f3e4aa1c874b8301fba6be0d8326a1788a8ff6ef2fe3e4",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1055.tif": {
+      "sha256": "b337f6a101bc4bb996470363c2392e8f5c4ac0abb18c21441e00173182ea72a8",
+      "bytes": 345073
+    },
+    "micrographs/micrograph1056.png": {
+      "sha256": "39b0d2c88733f49768d4a880942addfef91031026dc040d81bbb6734bde418bf",
+      "bytes": 283303
+    },
+    "micrographs/micrograph1057.tif": {
+      "sha256": "971badd827b07ec45fddbb959428652f5ded44e6cbeeefc869aaa9d95db33ca2",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1058.tif": {
+      "sha256": "362ac50c4c398172e4998cbbce95235aabea7aa3cab3d1ce18e5eec3b0c3514e",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1059.tif": {
+      "sha256": "c28da4ed21888d435eae3b0693cc7bee7a78aa022fbea8f5e83e605846f5959a",
+      "bytes": 345057
+    },
+    "micrographs/micrograph106.png": {
+      "sha256": "5c6ab9973f399d281d826976f600146256ef2c46b1ab85b8b17a0baebcb7ef69",
+      "bytes": 293752
+    },
+    "micrographs/micrograph1061.tif": {
+      "sha256": "dc6e24b68d2626156adff2fbc4ecb65bc446ab07b9f93120953015f535dbade0",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1062.tif": {
+      "sha256": "6f10dd11bdf614cc174a7afab6ff61a5ac879446bcdb357f67938db1c4e535a8",
+      "bytes": 345077
+    },
+    "micrographs/micrograph1063.tif": {
+      "sha256": "417bd5458fe0e55da25c35dd1820307fb794dbe6e5f3a37508f312c10ba28723",
+      "bytes": 345053
+    },
+    "micrographs/micrograph1064.tif": {
+      "sha256": "889e2ac3d659219c8ab66d8e0e8c603237ccac09c3bd4ff09e5f8b07891ee247",
+      "bytes": 345073
+    },
+    "micrographs/micrograph1068.tif": {
+      "sha256": "7dabcacb44484163f653d0e4314fb881706675948e2dcae35d494414ec33628e",
+      "bytes": 345065
+    },
+    "micrographs/micrograph107.png": {
+      "sha256": "04e2ff6304e059daf2b569e0c9bc27c32a1299edbab15719f35d79793b8b4d20",
+      "bytes": 291463
+    },
+    "micrographs/micrograph1072.tif": {
+      "sha256": "88623b622c6f905b2397c93c733efd8275104f35dcc3003665e32d82f589248d",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1075.tif": {
+      "sha256": "60f7f7d374ec90e6f47ca77fc83d6db63d1b6f153a937088e16fc5c84054517c",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1076.tif": {
+      "sha256": "c65c809ef462ba606cba50cf4d9954c8a51f40599da840c43da2a46d160f2b42",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1077.tif": {
+      "sha256": "36fe9ad3e71d0ce97dc2f5ec8617bcbb5e08d9682337779efb56fd6ff3654a64",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1078.tif": {
+      "sha256": "9617ea56e2063f79133493375843c6305198890ae992a4998bb3781a6a681398",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1079.tif": {
+      "sha256": "a62e314107bfe88d9c44717a4d2086c96df2358753681752a9249340b80ae57b",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1080.tif": {
+      "sha256": "9b1abc82d91c0acf1daf3bd1777f814406db77328c34c7621213928ff2b0e3a9",
+      "bytes": 345053
+    },
+    "micrographs/micrograph1082.tif": {
+      "sha256": "f8e7cd7ccae6ea51cacfc1ca98000f9e520898fffc17c662af12aa8316798ebe",
+      "bytes": 345053
+    },
+    "micrographs/micrograph1083.tif": {
+      "sha256": "246cc38583e43c5173fa02784b2931d0df326c28449734ad4e1cb93a794d0d27",
+      "bytes": 345077
+    },
+    "micrographs/micrograph109.tif": {
+      "sha256": "ce254dd41aca8651fe3497d56ce66760ecc62556060ee19ac3ef9c1ee8685a77",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1092.tif": {
+      "sha256": "3872e498eaf227b22335d2dc4ec7946d5e7de779cb0f1709f64191c533fad8c3",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1093.tif": {
+      "sha256": "3514b97c64d4ede5f8d59a895f9864f0a063a86b13e42b735bebebdfb639f659",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1094.tif": {
+      "sha256": "6ec1520d8c2afd6d1404da5f13375ef7a9c494343d3c1d3ec5c04aa116c285d1",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1096.tif": {
+      "sha256": "387605dce0897b0781737e2bed8116e1b6b28a8b9ba1ffab2a7eed537fec9bf4",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1097.tif": {
+      "sha256": "e6dc5d515c3838b02385dda64596fd3e08d7f7c34d72c34b56615bed13e06bdb",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1098.tif": {
+      "sha256": "6a4e3f3e76d25ab52c2039c65a76fc437a006ddcb70c318e0e91c30096f1194c",
+      "bytes": 345069
+    },
+    "micrographs/micrograph11.tif": {
+      "sha256": "339c7bf732e228e82096cec448eb90d49f9e6b04acd243d01361ad72d458835a",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1100.tif": {
+      "sha256": "07a64024baf69fb53cd9bc9af67a6eff0e0ad064a876b165f2be697d943a4ec1",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1101.tif": {
+      "sha256": "c9d2f65e4e6f9813de6effd68d8d64d64cab2b17540a76d75ed595ae25af51e0",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1102.tif": {
+      "sha256": "ea97d453f9f0af3e951fafbbe2826cab1020ee1deb1765eed641301d723c19d0",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1103.tif": {
+      "sha256": "6de9f684c7b2f39dab06ac1095629d75c11fe66ba6b16a6883c990610a7bc1fb",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1104.tif": {
+      "sha256": "2ece73d81a55b0850df04674a96fc3fda0cdae86601da504a19efc77d7c68949",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1105.tif": {
+      "sha256": "0bc002ffeaf82628c270f9c6a7f2b0506d843afb2775e8b48dfd0cca59072f46",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1106.tif": {
+      "sha256": "98d387c5cc55f838d7c767ef24af3e0dd9bcf18f354a650fce150e03f7dcb2f1",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1109.tif": {
+      "sha256": "4f8f2b78eb5b8b45581eee1e30ff905b2d5cd0fde3ee5d3e45b327dc0ff9fcb8",
+      "bytes": 345065
+    },
+    "micrographs/micrograph111.tif": {
+      "sha256": "6dd84fd589668b98d77959697b35ef9fc462f746d3970008dcec8ba8972b8600",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1111.tif": {
+      "sha256": "a20ee7ced0624f83d7b6fa56aff63a11e2a2fe26e7162f76a82418379b284c6a",
+      "bytes": 345073
+    },
+    "micrographs/micrograph1112.tif": {
+      "sha256": "4a3310f280d49909da6a0bbdab164bd9e267483f0c9620921efea8031b934a07",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1117.tif": {
+      "sha256": "eca6d1cad96eb6f6d08b142a0173b9ea762b56e6a67a91a2967ba57f08c715fe",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1119.tif": {
+      "sha256": "e29766b652a5fb5539c9eace6ebd8a13e9e50e60df7a654ab483b14dca35fa2c",
+      "bytes": 345061
+    },
+    "micrographs/micrograph112.tif": {
+      "sha256": "ab4d4c0fdcb2ac4637914862960b82ad7064f9cee46ec9817c57d671784e9199",
+      "bytes": 345053
+    },
+    "micrographs/micrograph1120.tif": {
+      "sha256": "d197a2178c685cf3bdaea70743c92b3c4e76749d202eab834eafe32902c84700",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1123.tif": {
+      "sha256": "5f90b108949150d03d6b253e0bf1d043075049b23f3e35dac4346b7d0005f905",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1126.tif": {
+      "sha256": "962ded05c26ee1b04e9c0c89048aba2d11295b4639d7aab8df50819ef4ad525e",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1127.tif": {
+      "sha256": "90211f4e3474dce04f5c646cd3e7af42232805171ada9cba784d684b4d34be46",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1128.tif": {
+      "sha256": "02ec0a8a510c844d49b1cbc26fcd0ed3ac1d45701ca76fd6751b897ff4a97b5a",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1129.tif": {
+      "sha256": "6f87ee506d62d7541e8eafed6a5e9f9c303d872ec5b9c95fafcbc4994e43f23a",
+      "bytes": 345065
+    },
+    "micrographs/micrograph113.tif": {
+      "sha256": "66a50ec530e891d476ca67fb7b71429e477d0403155c7161666f99a67d5f6a9e",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1134.tif": {
+      "sha256": "ec1aa2f98b422333624b7517e56f70ea0da90d580c366b67701723e0d2c4891c",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1136.tif": {
+      "sha256": "56dc6d2c5e330cd428a974d105cc2056c3acd25b339ebd98a518472da90805bf",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1138.tif": {
+      "sha256": "3285d20734249e01fa4872e54d2a9a2e1378bdc6ecfad8758ed8d9d8d0bc7f50",
+      "bytes": 345073
+    },
+    "micrographs/micrograph1139.png": {
+      "sha256": "0cd300f99e97c56e0c4b92910827e8aab386435f8207b35e86ccaf81f8bf9439",
+      "bytes": 295515
+    },
+    "micrographs/micrograph114.tif": {
+      "sha256": "fb67070a6437eb363210ccdb4252ab0fc126403139624b15a32ff97030c9e091",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1140.png": {
+      "sha256": "10756fcbdf98ede4032823063e0203767fedf98e0ef29c91203c4e1dfe7902c6",
+      "bytes": 290643
+    },
+    "micrographs/micrograph1142.tif": {
+      "sha256": "e0c6018f1d697c5e8d3aa953382129b4be5b3313b5c718c7b204ca6e49e541a4",
+      "bytes": 345053
+    },
+    "micrographs/micrograph1144.tif": {
+      "sha256": "c2ccbc81d67c8d04a4f3b933338bdea0adf847eb8761808931210fd121ec7a62",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1145.tif": {
+      "sha256": "b8f0e0083cd75b31fcde8e07b7f30e15116259ece4b32d925a6bf74d22ab74a1",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1146.tif": {
+      "sha256": "2375a9570fb4a6d5fdf87aa9b7a933ffbe18519e57960a7d29c63320f76cb7fd",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1150.tif": {
+      "sha256": "77089517115868a2e38de69fa57d908476025def5fc9503f8122f1c93a261eb8",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1152.tif": {
+      "sha256": "72e874ec652da572b656d99af4458cf9fff5d9c0c3c9e95140b75bed70880a14",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1155.tif": {
+      "sha256": "cd9823f14a7d49d59a7e6f7574b4d35b92bf9d1cc405aa899f8a6a087f9b681a",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1156.tif": {
+      "sha256": "423c5e13679cbff0efeba4c261e910d5b93f6dbdb4220f1d653aaddea0a2d923",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1157.tif": {
+      "sha256": "9292b7d1d63011d0a88d720c61d3dcd652941c27aae23529bb52b7f6d8d0281b",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1159.tif": {
+      "sha256": "b8a3414cb5f22a7664128f22f14463d93b5e4fac1c60959da2a5134e5e0fe1b3",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1161.tif": {
+      "sha256": "412a8baccd77c7bf789839ecf7a1ac14106e0d32264d2de2864817aa3706b9c8",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1162.tif": {
+      "sha256": "39fdef9554bfae574bcfcd6127735ac4aa7361528073d238926b40cb3bf8bd07",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1163.tif": {
+      "sha256": "33f909072692e17f7f2a6bcc4f03660d1c7f26b8c4b24d8778cacff16a77254b",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1164.tif": {
+      "sha256": "89d66ce36d311663c82d534b517b94effe386d68d87c571b8e5f1f993756e99c",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1165.tif": {
+      "sha256": "56c4763efcdfee102d3838e475845fd4d29c592b5aa234ede22eb7d776d8a5dc",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1167.tif": {
+      "sha256": "64f34a354df84d22ccb3ecfe425defa8546366a79048bb621ccf9f87e1ac769c",
+      "bytes": 345073
+    },
+    "micrographs/micrograph1168.tif": {
+      "sha256": "0771ebfa65f55263bcd2e6a5ce59a3c81ab515c81ea57de68e69afa2802d5f8c",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1173.tif": {
+      "sha256": "08813e4658eed1b3d7c90f93dbdf0c9dd28c405619809127ddf7969199931f95",
+      "bytes": 345073
+    },
+    "micrographs/micrograph1174.tif": {
+      "sha256": "3fe3543fd037499f6cb07e56b61107b7d15b3478eb25b18d2a112b678b622223",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1176.tif": {
+      "sha256": "1f70f3d68dfbd9ae97d3a0c774d1d6e8938f44b817013a32b1009cfd3275733e",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1177.tif": {
+      "sha256": "18565c08fef61a4a529a5a6ae885b5275247a30fa6bc18a626c396de7dff415b",
+      "bytes": 345073
+    },
+    "micrographs/micrograph1180.tif": {
+      "sha256": "475b617c30c3229d14cd5d2c833b120f98a24aa3c055fe058e4ced97b8a57a11",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1182.tif": {
+      "sha256": "1d1ad7c38855a59a66a630a6d229fc7eb961a5438d0e6758b739f6fcb0da92b2",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1183.tif": {
+      "sha256": "cfe5d800881c10337c473de68c8328fc820be36c0dee52e5c338397c5253f4e0",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1185.tif": {
+      "sha256": "96bded2bcaab93f036f88c5ed893745a76636f8dbc2a64a84e6cd2dbfc4e6ebe",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1186.tif": {
+      "sha256": "e969555bc8ae41c87a9cd38671a7b1bd245411dd544e98cea9adcf207806f991",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1188.tif": {
+      "sha256": "c5ea19ceaac07fd28d823839fd25920a0787f0592f26d61f5d65a1ad07f02e77",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1189.tif": {
+      "sha256": "b59b261fc321b858ffc43835b2cca5a481944151875a0b88a746ca6d28324e58",
+      "bytes": 345057
+    },
+    "micrographs/micrograph119.tif": {
+      "sha256": "1f811cc1b535daa1764003ba62bffb4ace9df20dcb76f0515f1ad5a2f6b47641",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1192.tif": {
+      "sha256": "3b82ad921daff1f76bd0c29e149c607d8f7d33f8567cd6f760e8db35cae9e474",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1193.tif": {
+      "sha256": "2fa7cc213d646da17b94a13905c7f4241c69b40d1041fb6200a4b5d29e66fa89",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1195.png": {
+      "sha256": "8ff57f8d1456f16cc89362b698ba427f65dedab27c697d48192df72c9190d8b6",
+      "bytes": 299002
+    },
+    "micrographs/micrograph1196.tif": {
+      "sha256": "2064e664b1fed6bb695e784e96c62bcd6cf5e895e0aedd91ae5f0cb8a9941130",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1197.tif": {
+      "sha256": "d2eb62a600fd1ce9155f1b41cd2114aafd6c759c36295e72cfdfc66ab0107190",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1198.tif": {
+      "sha256": "142b5955890d5fe74309c82fabd5ffe07dde0d52f47939dfbc0aaa2a3cc84ce1",
+      "bytes": 345073
+    },
+    "micrographs/micrograph1199.tif": {
+      "sha256": "0470148544ccb5f6965bf3df1399e2a2d947d3bfb9c5118383747df2ef607a2f",
+      "bytes": 345069
+    },
+    "micrographs/micrograph12.tif": {
+      "sha256": "93457147187c10310d1e5e2bc610815dfe60e99aaec064cde6cb8a1e666d3476",
+      "bytes": 345053
+    },
+    "micrographs/micrograph1200.png": {
+      "sha256": "4021472f83e79c11d23c71cce3e2c5e23081876749cb41d8a309a3dd8c32abef",
+      "bytes": 298575
+    },
+    "micrographs/micrograph1201.tif": {
+      "sha256": "4f14f69a7132f4581e89af94c6aa384b209974c046dd373230c8299d0b8a1f9e",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1202.tif": {
+      "sha256": "3baee8942b34b1a611a7495f7a17922e55dc71ea5da4fa484773d95fd5efade6",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1204.tif": {
+      "sha256": "30bf2b7a9075f1bc73e9d212980d2c574c9c563aa7b49d9149711e9ebf3c6cce",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1205.tif": {
+      "sha256": "bf1fcb0daceae9b93a2e9f4c327321b4144d880828fa00d4098252e82857992c",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1206.tif": {
+      "sha256": "02253dd1b3c467bf7cb059ac312b778886e0b6010e071d6ce8490955bb9d6944",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1207.tif": {
+      "sha256": "ad1e6ce7abb358a866d2543a8b61cfdf299e827dee4f26b6afca3641e6189799",
+      "bytes": 345065
+    },
+    "micrographs/micrograph121.tif": {
+      "sha256": "48090e179daa3e44eb56d0e719ff761aafce12929c9339813b6ad528baf5ab54",
+      "bytes": 345953
+    },
+    "micrographs/micrograph1210.tif": {
+      "sha256": "d6f1149a824f86e73fd039411e8763c6bc249ad53f9b91fd8cb93dd01a0d653f",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1213.tif": {
+      "sha256": "a94df999f4ea4f264c89e42428a2bf24165ab51c01e02ac09165a8f8711603d8",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1214.tif": {
+      "sha256": "1628ec0580ddcc7afd75cec2f0f2e6c9966792a4d09de2c887a95da5c36ebd1e",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1215.tif": {
+      "sha256": "8b50e9ae4f0de2cf8e4c477145d1e47fd6a27ff858075cbbef0b8bd0005f07e7",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1216.tif": {
+      "sha256": "5079451526020e880f04354787face6f13b1f7906ba529e4a9c3c4f42cbd8ce4",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1217.png": {
+      "sha256": "bde7ac1ceace48bec36a94b01aa1791e4a4a192034d449be5d3805269baab967",
+      "bytes": 302992
+    },
+    "micrographs/micrograph1218.tif": {
+      "sha256": "cda0f8c0e53f1965a792a188a1de3b13b14e49b1fcb5d3909cc5ff1fd7a73ce8",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1219.tif": {
+      "sha256": "1a3a1dc62ec59ac3d2ce331d0a2dfdff7959602107496e41fedf46ac481c4aed",
+      "bytes": 345057
+    },
+    "micrographs/micrograph122.tif": {
+      "sha256": "4b55f33036f991e848a4b37780683ecb083bd60a520be787e9ea0432d22d77f9",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1223.tif": {
+      "sha256": "a1b1725e668783c70bb73718233311e5285dea05c6caf43264f2a6be400eba8e",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1226.tif": {
+      "sha256": "fbd32885d21c6eb2d6f2605d7acec6f4c116fb06ba65c5662c39796ea5d89581",
+      "bytes": 345077
+    },
+    "micrographs/micrograph1227.tif": {
+      "sha256": "cbd9700ff60fe88bf9acf5ffc2974e54b7c93e6417827f4e25a514790607c197",
+      "bytes": 345053
+    },
+    "micrographs/micrograph1228.tif": {
+      "sha256": "415ac44d6f6c66ee518f47a298e9f86fb4eaf18df3b34468659960baa1a03491",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1232.tif": {
+      "sha256": "1a7ef87c71601d870b0df5f67adf5ecd984cfd38c76335396358ec58ff414a7c",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1234.tif": {
+      "sha256": "aaee8090e4834d77fb8de43ee33b84827e066d125fe1614d47c71092020ece50",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1238.tif": {
+      "sha256": "ac7bc4fff60028daac3d033b31fb919f37be5e1b27b4a643a4f4ed54a5df3c6c",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1239.tif": {
+      "sha256": "b1df9b041deea571c193979b86804be822d19de0d98812794d13f54e30b3dd4a",
+      "bytes": 345061
+    },
+    "micrographs/micrograph124.tif": {
+      "sha256": "6fd9c67abe3f0df8b9a16b508457a74a1bb2bafd2abb26f5ac3c4516a053bbb9",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1240.tif": {
+      "sha256": "7f07848ff91e1fd753d543c887c00fb1afcaa3adca3ced63ee51a7d3473d866a",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1241.tif": {
+      "sha256": "fd031854993e83f29a4de16b200c2f9e959a5403048eafd3a03618ceef4855a4",
+      "bytes": 345053
+    },
+    "micrographs/micrograph1243.tif": {
+      "sha256": "23ad58565e1647ac0d9bbc56acba31e17d9028828b4a14813b17d3dd2acd8511",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1247.tif": {
+      "sha256": "02e888d3e347b8092077668e29941a279e51b36664f133094eafbd56071262c4",
+      "bytes": 345073
+    },
+    "micrographs/micrograph1248.tif": {
+      "sha256": "2da29a4d1a7778d2da809c0b8740f6b89c5d599ac9e1e4fd20b8fb9774e87837",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1249.tif": {
+      "sha256": "9d14847db37a739135f94c96ef39de52322c2b2fb86704563e05c151ff3328a1",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1252.tif": {
+      "sha256": "5c35f3203a3bc7ce4fe2d757cff6c59a85a9fbd990ec23b551f91d2403976a30",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1254.tif": {
+      "sha256": "ce7df5403fe69a1358588a0ba072e5291173e58e5d04d0c071563d50939ec67a",
+      "bytes": 345053
+    },
+    "micrographs/micrograph1255.tif": {
+      "sha256": "05317c99408b9a21081ca5cc36ec33cd3981d72a49b1aa254bb079565ad29c54",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1256.tif": {
+      "sha256": "ea68df926d7366bca835ccb240257ac1c198871793a3dc4ef6654cb7669cbc88",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1257.tif": {
+      "sha256": "a3f814decab1ac1c3bc8ac9a97aef2844e93833be56042f60378984e814f3d97",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1259.tif": {
+      "sha256": "7188f1e46e4eff5021d15cb853c0e477681547d2fa05209f4b1da6f503cb7f43",
+      "bytes": 345057
+    },
+    "micrographs/micrograph126.tif": {
+      "sha256": "4584691eb9311ef18399a9de8e678cd0552ed2b654a414d1e8cf96d55f64d90c",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1260.tif": {
+      "sha256": "3368a6ff225459ddad427630d048bace1851d15e296a1e763dcb6d270a7d58e3",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1261.tif": {
+      "sha256": "2566b4e399263c3abe44dad6c2fafdd82977d6028a0a1db3c7cdc466d7fa5f21",
+      "bytes": 345053
+    },
+    "micrographs/micrograph1262.tif": {
+      "sha256": "801812a517770b346d830b068c7441193aa6997555a711933b64f31b124ab7bf",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1265.tif": {
+      "sha256": "512da626b8111d2e98b9b066a43cfc5fb6b7aff22763d0387ea675d502d5ee22",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1266.tif": {
+      "sha256": "234753397306367ad567246205cb3fdcec8a3a1b3adc216a954b6c75c6665eca",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1267.tif": {
+      "sha256": "018a89358f7752d70d48e4fb0d90c74c9e1224a717c324c6f74860a2c8c69c0f",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1268.tif": {
+      "sha256": "54a7094724f7179a54a64c4351bbdfa96c55f3d8817c9165bbb23078632d5be1",
+      "bytes": 345061
+    },
+    "micrographs/micrograph127.tif": {
+      "sha256": "a4638fb2a157e1e0c1f9eb5b1b6ecbb8d47faac5a71fc89026d821ccebfbdc2e",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1271.tif": {
+      "sha256": "5ba92753ef91d5789b8f609418e27af3d3c0c2811e3aea892386d4756674a2e2",
+      "bytes": 345053
+    },
+    "micrographs/micrograph1272.tif": {
+      "sha256": "9c94e3236d2bd07d0a46a3785db16292a83d481683b395af17863d773864b8f7",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1273.tif": {
+      "sha256": "e247a9f4f6db93f513036952e7ff68cab194ccdf3e857df854341fa26c8e9a5b",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1274.tif": {
+      "sha256": "6c15e95e97c703689febd84018a1a98de5eedcb57f78c1db65e27404a66aaa16",
+      "bytes": 345053
+    },
+    "micrographs/micrograph1279.tif": {
+      "sha256": "169cd08df23cfed451b08debe90e39b384171b1f0de272eff95bd9647ce1d085",
+      "bytes": 345057
+    },
+    "micrographs/micrograph128.tif": {
+      "sha256": "0ad3bf3f9a4d8de8d9b750ff6e2407aa335fab16ab912e9fde7cfb67461aaa14",
+      "bytes": 345053
+    },
+    "micrographs/micrograph1280.tif": {
+      "sha256": "943bb8d2b18b0ae260d80282525270e017d9b7127eb7ca3a116efb6c081b3573",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1281.tif": {
+      "sha256": "fed8e7556aa18a60732d757d0299a1d6cb4e2eb68de50cf3663fd019edcfbb7f",
+      "bytes": 345073
+    },
+    "micrographs/micrograph1283.tif": {
+      "sha256": "11cedbe8e931fd1b77cfc3978ff14b7065d500330c886d320bde51df4450c85a",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1284.tif": {
+      "sha256": "caf82aa46cebe6b71bc6d76cf39d288aabca22015931d4731ac381aed071dc91",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1285.tif": {
+      "sha256": "985ec3e90fff19222e5b6d9ace228ab311877a6badf91df69bf7f521f11f8023",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1287.tif": {
+      "sha256": "f3e51c3e77d7a35f40b6e916621fc4a2ca542de233239cfa0808c823962ba289",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1288.tif": {
+      "sha256": "7c6d97819aa011ac7ba8f30e781936843e90634d18eae5a932072890a2b3a64d",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1289.tif": {
+      "sha256": "4af75bfeabe5f7eb95ac473b483dcc71ec3b00b2643c26f097f8a645bc152745",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1291.tif": {
+      "sha256": "0b55b03620e2a305159a976ca1fedaddcf098c94f0962b019d26d279b0acb07a",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1294.tif": {
+      "sha256": "6dd350f5e2b5dd909bd657ad8a01ef175a8975cac152007374294ac1ee5ce642",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1295.png": {
+      "sha256": "cfcfa185a1645bd463b4b7eabe5596ba205659e222dbad67afe544c3809bfdc0",
+      "bytes": 282783
+    },
+    "micrographs/micrograph1298.tif": {
+      "sha256": "d9037ab09648a0c890cf76ef8fa54c56d15f97f095f0ee0fb69b9a008de0b00a",
+      "bytes": 345057
+    },
+    "micrographs/micrograph13.tif": {
+      "sha256": "31e8debab428a81ec5b0e7a8747dfaae008fbb42abca387a9d0c89574067d808",
+      "bytes": 345057
+    },
+    "micrographs/micrograph130.tif": {
+      "sha256": "c85d84661b5753e1970b40703b809f85598a7f4f7bf86d90db6137bd53c3f716",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1300.tif": {
+      "sha256": "c0c99f3a5cf07fcbe74d227c46ab22915c6f08b8511c6e7cec92888bb7414668",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1302.tif": {
+      "sha256": "eb7a9b9b5907261744451fdd7d3c6228a2d235584c3479eb30e4f60d2800d147",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1303.tif": {
+      "sha256": "ed0f932d9cdf4baa441275385c37babf2c12806928954ae3e4941b3f673ab7fd",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1304.tif": {
+      "sha256": "e36cd27603ecfccba1737b10f3b1b17a84ea3e6b2c8189309b3a6ac3b093c62b",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1305.tif": {
+      "sha256": "64d59549cffa2c3114045f5034dccf5998234380a0c0877da9d7fb6cfc783ea9",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1306.tif": {
+      "sha256": "583da239330c6660b023ebb48740eedf2b5e87d2ac0358804f7aabacf8950d77",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1309.png": {
+      "sha256": "e1c9176bbcd9db6ffc4d4f4fc66ccabf789dc9dd09c4239df56029622daf74ea",
+      "bytes": 295746
+    },
+    "micrographs/micrograph131.tif": {
+      "sha256": "6b3636ee08cbf2fda546ea87807d363bb8e3c43ae0c74309216ff0600d4f33d0",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1311.tif": {
+      "sha256": "392640d07c45de1d3cbc8c66120f7fd46024c6e58b2ef2bbefd87dee380e97a1",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1316.tif": {
+      "sha256": "72240fd21f709fe7918ba50e809950517d3e8a70217cb973a5ea608d7a581ee1",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1318.tif": {
+      "sha256": "56ef960ef1089d4bba1d849afd332ed08efc7ba1a427890f885f42dd6001cc06",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1321.tif": {
+      "sha256": "2beb134d6b3250222e9f9bc29404656aaddd6ad8da4e748f2f70804adac87866",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1322.tif": {
+      "sha256": "e59132a663bda0803a54826a5a02ff6e93b194ca5b7cf4809a0f6f3c0b37596c",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1324.tif": {
+      "sha256": "216d5174ac9f2f0814e21bf3b4f67beedff25dedf11c47588270124987563bd7",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1326.tif": {
+      "sha256": "30c7537c239450e66c38a564ebfcbef4864d353e670f2030101f31dbefd7df78",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1327.tif": {
+      "sha256": "fedb824041bbad0c7c80f8fa03f8f64fe71b52a24f751f020ade87af2b5efe77",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1329.tif": {
+      "sha256": "407b657f4c12764f94a6bcf4eb8da006c650ef9be3e3670f7dd6854bbb880b96",
+      "bytes": 345061
+    },
+    "micrographs/micrograph133.tif": {
+      "sha256": "77975b012b30bdda6bac38f7fb8dd340e055142d445bd0e6da5f4e061f290e55",
+      "bytes": 345073
+    },
+    "micrographs/micrograph1330.tif": {
+      "sha256": "a6724e4d59dbb9d0dc9a86802b9962fac92bd825f42ad123d563b8d263e411ba",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1331.tif": {
+      "sha256": "dad42a357a46cf177b83459e535c38ffb257fc529edf52840d3f8d46229dde9d",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1332.tif": {
+      "sha256": "7425fe969035d629cb0b5923902d3460b4ee9fb9b0fb35fe9b47d023105722b2",
+      "bytes": 345077
+    },
+    "micrographs/micrograph1333.tif": {
+      "sha256": "8b02e2381029fad6bf8920e1991333e110e4f815cd6f25cc237ee88bf420dd0e",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1337.tif": {
+      "sha256": "af98f52ed5df97252df828f7436d311f064505025027d241b06d49b216030af2",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1338.tif": {
+      "sha256": "160cd57d3ee997a21f48a4f8d36c8c1b9c2167297bc409765f7e5367e0485cda",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1339.tif": {
+      "sha256": "f0c03b6c4d404251f4e476d23a008ed5856813b2c423ad1b064ae1e3a0e1167f",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1344.tif": {
+      "sha256": "8269a09014ee0944e4779e12b62b8cd2286a52adfde2d4aa83c88581b8d11b56",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1347.tif": {
+      "sha256": "83ba14bfab6d23a4c42c9ced74c214b0a3e0de2af1713f72380a44df044f1c3b",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1348.tif": {
+      "sha256": "a8217b8e80d4125246acf604b1a9e753891e1103a09601d1b9ae17f15b43190a",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1349.tif": {
+      "sha256": "75223cb862312165aa1ab6368f6f8c773d14e0501f81a34d440bb39d62bd46ab",
+      "bytes": 345069
+    },
+    "micrographs/micrograph135.tif": {
+      "sha256": "cb0d16fcb92efcdbb1a471504f08469352fcaf4ee554800061740b39ff6d8ecb",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1351.tif": {
+      "sha256": "eb94b2fa12a62b06a26ee61fc92e809bf0b880b40af440baf400b83b57bdf65f",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1356.tif": {
+      "sha256": "27f9bbdb517cd8e5441b2ed6e9b2b0d6b4a7733a2b1777f6c767eaae057b76f4",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1357.tif": {
+      "sha256": "ac4fd8196e398ac40ca11ce1d6aaa1dd94d690bcbaa6d7e1765eae851411bc10",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1358.tif": {
+      "sha256": "f324ac35fcae979687b63b4536a4e7793496fe0645f2377716aaf94d4db701d4",
+      "bytes": 345077
+    },
+    "micrographs/micrograph1359.tif": {
+      "sha256": "bef2cc6876809580c28ef615fd202c959aa80fc5a40ac8e714ffe16cb6fe2c14",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1361.tif": {
+      "sha256": "917f72a6b7143ae30ae377697fb08785971d50132f40f3c76381ae5e8a4c376b",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1364.tif": {
+      "sha256": "f1882e94ce136aac7c23ae0bf5617f703a6a4f3ca733d8c228c9c9df12cf3c8d",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1366.tif": {
+      "sha256": "fb70738e2acc1135af14cfca6aaddcf810e9512a96b40d4fcb428bf1dba95f0d",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1367.tif": {
+      "sha256": "1519af60f666faa98118c98913fed7c4c245c7c5e9b2a7ffbcb5b32ffc59be50",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1368.tif": {
+      "sha256": "77fec001be9a9c7afff99233f2ee8abc192cc5140a6a583b3fca6f7dce4530a2",
+      "bytes": 345065
+    },
+    "micrographs/micrograph137.tif": {
+      "sha256": "dae2985f141302211cf24392c21f8218403d3792cc07f81f13749eede1d7bab8",
+      "bytes": 345049
+    },
+    "micrographs/micrograph1370.tif": {
+      "sha256": "6fc73c04fafe24bd7f3880e6b245265e5c1e4d5594faf9e142466a5bc70f871e",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1371.tif": {
+      "sha256": "95c0ce2f024d1b93c6aa7c7779c7c4b42126989ebf58b497ab149d1da55e29de",
+      "bytes": 345053
+    },
+    "micrographs/micrograph1372.tif": {
+      "sha256": "a4b5efda248bbdefa61b7a0ae6f56e0de74b262119acf7ddb735d8c567c5f0bd",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1374.png": {
+      "sha256": "e5acc2b23666c4713e13c2de3657a6c1412718ac786eb12e3aeb47654ea1c4db",
+      "bytes": 298823
+    },
+    "micrographs/micrograph1376.tif": {
+      "sha256": "c61b83420044ac7f0e7099741dce81a2afcdbda6444d6d89d3a10c9adc266fa9",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1378.tif": {
+      "sha256": "a1c92b23a00296ed56691b0c5f47a492623dde8be948e48cb09bfca0e51b48d7",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1379.tif": {
+      "sha256": "d627da277466181dcce65089fa3f424122d13433820fd4221a7fbd8d2c7c752e",
+      "bytes": 345061
+    },
+    "micrographs/micrograph138.tif": {
+      "sha256": "48435b711a3fcd6ad82432aba8191cf747d63f0610e8e591187c80358fdf7ab4",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1384.tif": {
+      "sha256": "d3b900a7970a2756bc4bba012894fb210c1732d6b50f7e412efa76e0da388acc",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1385.tif": {
+      "sha256": "9624d58ffd38d60296ecdfa272ffe7cda5ef4f321dcf33ec62dffa545dbecaa7",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1388.tif": {
+      "sha256": "bfb34f8418c36944cfebf0bef957fd421de03d8832c857e49d4250140f990ebb",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1389.png": {
+      "sha256": "2a778b2ec7331abebb12c19a24cb1b6fe1849bcb85f7fc76679acc6e31c18cad",
+      "bytes": 296121
+    },
+    "micrographs/micrograph1390.tif": {
+      "sha256": "50a5c07a116c89e50042f2da28e16865aab41fe8d836019b94565fd691c106f6",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1391.tif": {
+      "sha256": "c05437d01f8ed958ad8d416d3ece341b1ee96ea46298fc995f79dd1a5b30b067",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1392.tif": {
+      "sha256": "93de940d95e97fc284fb60192dee5b36f7ae32a9702e1031c5082ce9dbafd4a6",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1393.tif": {
+      "sha256": "1b0f03788d93f61eb11e7f10fded52929df19e8e43f24b4b6d308a9b9c78fc11",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1394.tif": {
+      "sha256": "5365bef6fcdaa17d501018dda8361e4ebdbc4eafeec74ced9f0b7c681be67396",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1395.tif": {
+      "sha256": "9475635f65b98fb68e9899dd6ee78e2a4e5003f2ec140f4075c0d6f9e4151cae",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1396.tif": {
+      "sha256": "985b4b044b860c36274e0ae0f50a1706993f46450631e840755a6cd6def003c4",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1397.tif": {
+      "sha256": "52880fa504c077c3b7f5802bf2f7af64fe2943a1865222235d5c53c3085dafa0",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1398.tif": {
+      "sha256": "1d7cee0e21841841d65a3931be9bdcc89bd3c64259a17e671c373741329008c4",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1399.tif": {
+      "sha256": "7ac6ba3f7348e5dc84f13f2bc94a6db1b8cd5aa0ee7b32b46dee05a519a1c4fc",
+      "bytes": 345069
+    },
+    "micrographs/micrograph14.tif": {
+      "sha256": "bfeecfd394d4e392697b76eb350375a4b26daaab55aa4a15864772915055a018",
+      "bytes": 345073
+    },
+    "micrographs/micrograph1400.tif": {
+      "sha256": "020f219381fd6e0ae0f343de2e8bdf7e8cd6f7aaa8cd2b30350dbd2ccac574f9",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1404.tif": {
+      "sha256": "45d0d167b2ad54187714cd6d466a8e3af4517b4ed9703dcbad1ecfd4659139a8",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1405.tif": {
+      "sha256": "e730b9c83ce5429b94884a7f35d353bbbe651fa1626a8d138d13abd368a93ae4",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1406.tif": {
+      "sha256": "caf336244c07acbcc908d60a269ca364e8d85a04d0bf5952ff4ce0d935c1c91f",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1407.tif": {
+      "sha256": "93191b08d42bd59c9c0c0ec6dcbeec7d4556c0a89c822da59ddd9f7975911b46",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1408.tif": {
+      "sha256": "cf8be46175072abcbabd9ad5c6b2886143479feaeaced29ffbcff80c7695f9b4",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1409.tif": {
+      "sha256": "114c14d79dda52c8340516d3f5da316e44ed22f63f1524aec248037bd23d52eb",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1411.tif": {
+      "sha256": "199acaf9402616dba1d57ecee8e2a13e87a13e3e9cb6742cada5b1191d2ab865",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1412.png": {
+      "sha256": "d2dbbbcc5e08e2943b397778fd07fb16a6887a4c0cf6464e49c4b83ea95b24f7",
+      "bytes": 309085
+    },
+    "micrographs/micrograph1414.tif": {
+      "sha256": "825c4b048f8a6046de0b527358d5a019c442ee07543022aece7dec869dc302e0",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1415.tif": {
+      "sha256": "065cca914a8acffa1e9fa7c418d1d2d8f041ea7740b08f96e2f97b673e523582",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1417.tif": {
+      "sha256": "a9ec6ae5d3d9a5278bd6e19f1f52f330d8b49b82696054aa79d0465003d3450f",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1420.tif": {
+      "sha256": "35cb91c63412e36c86a799a6dfceabccdf800b7cc9adcbb802e3a62daf2e8003",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1422.tif": {
+      "sha256": "8b8123cc02dcae8d0d80eef16c3b567af9dcb181ac3c3485967a0f320a229280",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1423.tif": {
+      "sha256": "7e95cbac758d887474a87cb9efee5afa6d46ebb327dea0118a4eea9dae28b572",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1424.tif": {
+      "sha256": "11019034cea40e3cc4d1dda1c81f1dfa0c8b6446dd8bd18886db2ee1f97d4fcc",
+      "bytes": 345073
+    },
+    "micrographs/micrograph1426.tif": {
+      "sha256": "868372054ab8fb7bfc61d92a42588ea8c58eac19c246d895afb477c2f9bcf7ca",
+      "bytes": 345053
+    },
+    "micrographs/micrograph1427.tif": {
+      "sha256": "c40f88b9e5926994fd7fac1adcf15a5f178a3ebdc8279603e25bf4753c17a8eb",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1431.tif": {
+      "sha256": "79e5ef8621eb080687d6e66631ad49b96efeae2feb4a87213e49affbd7181f6f",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1432.tif": {
+      "sha256": "5ec9f6db70a74ebd96a8a1daa8be6441352ee4dbb90e07ddab7138baac0d73de",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1433.tif": {
+      "sha256": "b6d0ddda7f76894a84f82a37ad336a1a4c264cf370be9eb5a6d263f19ac9468e",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1435.tif": {
+      "sha256": "811151602127dece4f0585ff33476c3b5b2936bfbae489f891366289e079f6a4",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1436.tif": {
+      "sha256": "a43d7a6ddb64932d41ca7e40482839a793711742b4df256b563e5312818cd31b",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1440.tif": {
+      "sha256": "9bed64968c2103cf5205c54841c35c7cb7e627d6d23c99f18118b692d3fb218c",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1441.tif": {
+      "sha256": "dfbe0b82de46586c808932c07abc29e532c0c9a985acd197c700c68bdb5fffa4",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1444.tif": {
+      "sha256": "9a86c789f8eade569f298473cf0a11022ec6e8c1c9f3b0ce03ae62fc1dc90b90",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1446.tif": {
+      "sha256": "73c8e63711324b251dd16581c413f60bdca600e7b332c64ad8e68e3d2f3c85c5",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1447.tif": {
+      "sha256": "d0b6abfe337f36cb90b351b18aa661be975bbb6b2c4f7912eaf4da5ab7b297dc",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1449.tif": {
+      "sha256": "1f5228e9bb9efed9992700c6c241cf5574d1051539ca59c06a98619a9dc683eb",
+      "bytes": 345073
+    },
+    "micrographs/micrograph1450.tif": {
+      "sha256": "da9247a223790ed5fa5d1a258160cfa50329932caad035bd32107b1325ada2b3",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1451.tif": {
+      "sha256": "ebdac3ee59992717d064e555f3330bec8c4d4359ccd8fbc8d3916ab673b0c643",
+      "bytes": 345073
+    },
+    "micrographs/micrograph1452.tif": {
+      "sha256": "3d7567a07fd484f6a3e83b4a63ec01875a51e9970e16fa59721282263287e18d",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1454.tif": {
+      "sha256": "6d6280040e455c1696acb1f2c28c9b91cc1d85a4a981cab1588c4e7caaaf0c14",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1455.tif": {
+      "sha256": "cb3898c7e78437bfe9a3f83e40d7f88ce8fffa1d39ec883c94026509950d148f",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1456.tif": {
+      "sha256": "1757692a8d03b043f4d7d3323570c0ba06f13124c7c6e24140718906a6d66e0b",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1457.tif": {
+      "sha256": "78ebad1984c9f7c56a8c646ab674f20d0f5e9fade3e43825366a1517f4c1e9a9",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1458.tif": {
+      "sha256": "13517b72e61660a1007787dcee770df3a194e7aef357b6c8a7ac7b6ab61efa48",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1466.tif": {
+      "sha256": "8899d28f0da91cb966f03996c2ea802b59849e501cdaacec708c589d3de496d8",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1467.tif": {
+      "sha256": "5f71ed5b2efb00becf4501d61897fca39259a35ec87349a23ae4d98f7735c4f1",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1468.tif": {
+      "sha256": "15a9f97cde07ced0ced9679740583521324c53ce7c7274d3707d2bc95d7021c2",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1469.tif": {
+      "sha256": "cdc5ab511676a0287a2ab4fc83e9d23f3dc4a70e43fa32710365020f5a1687d6",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1473.tif": {
+      "sha256": "8059adab0cc90a7e0a1bb1ca3bfda297778f818e678f54f0971d2769f2a4c5a0",
+      "bytes": 345077
+    },
+    "micrographs/micrograph1474.tif": {
+      "sha256": "c1e5aeba3ba3e49b848c4d7a58a28d7fdc6474fc7f2b08a12baf0266ebf236ba",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1479.tif": {
+      "sha256": "d85488643fb3118b5502c938b23dc0af86ffd0082c4e3d379cdac4bc6631368c",
+      "bytes": 345061
+    },
+    "micrographs/micrograph148.tif": {
+      "sha256": "d472324bb4fe832f074666262e110bbaa496b08cd9aba24cfbea5868b32045ff",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1482.tif": {
+      "sha256": "ec1f28eb0485da8f24c3eba81dae5626ea4b54d7a0ec8522838a21457215b092",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1483.tif": {
+      "sha256": "551ef3a84ae1703f6814a4e0fb9104263cb63639ca20a933ef947fe4d883a52e",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1485.tif": {
+      "sha256": "21fb65b55d900122add9cda37c4d986efb8288d444317202e6181c47c2bf92db",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1487.tif": {
+      "sha256": "0bbba01b0e2eb7652673fc91e0f12d5f9ec3ccbdd8779af8a6cfb5db076c67bc",
+      "bytes": 345053
+    },
+    "micrographs/micrograph1489.tif": {
+      "sha256": "dda99f94548d24aff177786ee67a0b6c349fd416483e6a99731ef576d33d98bf",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1490.png": {
+      "sha256": "2f958ffbb742ece0aa2943a1d580985dc2bd76f71538d1e3a635c07332228f65",
+      "bytes": 300578
+    },
+    "micrographs/micrograph1492.tif": {
+      "sha256": "f37adab55b662898fec7bc6d5a49dd3bbdd7b905ea15ff06e8ec6d4b2231b347",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1497.tif": {
+      "sha256": "69efab413b7268047cdbffe68031dccc7b4625ff975b2f0abf5b920b7b150afc",
+      "bytes": 345057
+    },
+    "micrographs/micrograph15.tif": {
+      "sha256": "8c58add255adb35c067f129b45ee931ff77d4022bd37617b820853d2c2d53b14",
+      "bytes": 345053
+    },
+    "micrographs/micrograph150.tif": {
+      "sha256": "d1b4d99c6be3af54726672313f6e7ceb429fa54b832230f3f733c7762465bcb6",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1500.tif": {
+      "sha256": "fd592d57c30bd88ffb939956b9541dc754b72464736d16a1947ee9011319495d",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1501.tif": {
+      "sha256": "b8a03afb8554d16587157bdf146ea8a85434ae57452fe036cd6d143afd6c497f",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1502.tif": {
+      "sha256": "931b74b50e4290c26a07ef6a4a58968c267c4c1695903f28f99ed8a91b2a2c16",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1503.tif": {
+      "sha256": "ff7f7700ded30b292935dcb67d448a5bfec82fb34753ba0b6b90ec186b8a2556",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1504.tif": {
+      "sha256": "9997d7cd26c79c19bc4b6e7fe9be2da860f59977a1035ee5905e360f0d01b0c9",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1506.tif": {
+      "sha256": "a9e7506287187db957f652729d98082d4d854db8309d6d8dae19c014281365b0",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1507.tif": {
+      "sha256": "68638c45ecf49b7c0a2975b03db2e1302f28c4e188e998d78ee9943e7aa93c56",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1509.tif": {
+      "sha256": "0226cbbb9e3cb1253674a2125e463823ba5533515e804f99e79f3dd14e3a9f42",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1510.tif": {
+      "sha256": "2194594814b09da0e155d174d28b46bd0caeabf681208de1b96b26ddef5731ef",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1513.tif": {
+      "sha256": "7075298eee1a70470b4ee3c4132d5c7517b7cea74f1747ecd59946fe8a5255d0",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1514.tif": {
+      "sha256": "338cbbc3be4f4d944f7450b37c37e9c3bddaa54dc9347d2645f6e36abe89e3a2",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1515.tif": {
+      "sha256": "dd391796f5f2777e0c40db034c4c17ebe52069647d5e84ef5ffa66453bf469da",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1516.tif": {
+      "sha256": "226cb6ecf36ae95a3879239e209a9581d35d37490c13e33064498a30840eaa33",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1517.tif": {
+      "sha256": "5c915c3407b036f1d4142019d51f8e1467b66306309f8afd5504210bdfdd23d5",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1518.tif": {
+      "sha256": "df6e3779ced29764f0913a534b6181214d22c42f41bdbb0f0c9c247fd29401db",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1519.tif": {
+      "sha256": "ac22f9dd212128093ce56e0f26a4f766915d3e8e0e529ce10e8aa06606ff202e",
+      "bytes": 345065
+    },
+    "micrographs/micrograph152.png": {
+      "sha256": "c171272d9827e187a87633adfdb5064f1679cacb6222e03a6dfdc288ba109dc5",
+      "bytes": 286470
+    },
+    "micrographs/micrograph1520.tif": {
+      "sha256": "e2de4c78d1634f70242d43afb2c860bb7de84ca0a8505a9395aa00f24e2b6536",
+      "bytes": 345053
+    },
+    "micrographs/micrograph1521.tif": {
+      "sha256": "becaf7baf8904f4e803166674cf9ba309fe2750d07c9ac4201c3db406862109e",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1522.tif": {
+      "sha256": "53c0f835b847e26a7844a1739928e4dfc7fe59deaf49785fb58fe7099cb431c2",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1524.tif": {
+      "sha256": "697f96b582610a1574f10f1b39e15cb30fed87014d1e3617cb225c6f692c98bb",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1525.tif": {
+      "sha256": "9827164d5ee227c3cbb0859c0c3026a62189273a40941cef3dd9b203fcc0f3fa",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1526.tif": {
+      "sha256": "f54e2cfff3f88399ed02e7be8176a6202c2d2026390c0f2af1cda4b9db226c1f",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1527.tif": {
+      "sha256": "fe8f78d68ac99c7f180a8831a425e608eb4345976e13874eadce31cab8cb98f0",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1528.tif": {
+      "sha256": "67e3da7b230b91bec701e8b13b5ab4af6fbd76bbbcd94db70016f140432897ed",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1531.tif": {
+      "sha256": "bbf043841058be37cc22381bc7c30c11d9ecbbf4e457be19557de0fb10b470df",
+      "bytes": 345073
+    },
+    "micrographs/micrograph1532.tif": {
+      "sha256": "82690f349377ab6fac0594942c01f010f1714ba36f9660cbb6eefe6ffdafa1d9",
+      "bytes": 345053
+    },
+    "micrographs/micrograph1536.tif": {
+      "sha256": "51f15ef11c03b9fa4958f425d81422395bb67046d7f3f2ef440be8d96d8a2119",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1538.tif": {
+      "sha256": "07c4a560328c4afc8e2cd8c74275289413a8f189798435ac52a37c2182695a13",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1539.tif": {
+      "sha256": "edcba3ed434a924c593eccb6ffdf17e686212a8e7a5aa68fef5040d545d3a402",
+      "bytes": 345053
+    },
+    "micrographs/micrograph154.tif": {
+      "sha256": "b16522a0155729e424d4ffe9ecdf04c72cb684c6acd72a000bd5aad8933cf6a8",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1540.tif": {
+      "sha256": "56c15f43297b25096dee65d42358e1c5d727bc6736f27acd4578e1ac4e0fa6f9",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1542.tif": {
+      "sha256": "551cddabc38790b65dccc12ceb5b46d533becfe15947e61156521d302a2fd8ec",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1543.tif": {
+      "sha256": "ae5e836c22562ef334b77f7eb66fbb0dc7aaca3e2f3bcd9425c882a14a8d0502",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1544.tif": {
+      "sha256": "d7efb4f3e50233dd042c08339b21c253086a437edcdbd3124d45900c91a407af",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1549.tif": {
+      "sha256": "7b1bf00b820c3ee44f14f73dcf1d0e8b5fcca52c6513a49d4b387b86989cb32b",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1551.tif": {
+      "sha256": "8b5914169f374c054538e63f8327a7ae22e547a899b9524ce746d38335967ac2",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1552.tif": {
+      "sha256": "3875cf000e83272bc66fdff0f17bd4fceadf50a31f311ced311a915e7fd52927",
+      "bytes": 345073
+    },
+    "micrographs/micrograph1554.tif": {
+      "sha256": "87c4996e1d7ffba75977ae9258c2776aa6fb90c70478c43206444b1ff161aa7f",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1555.tif": {
+      "sha256": "8a953fa8e3a6b98d565ac6401293bb1609415d2f129fd476fea190b9952e14cd",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1556.tif": {
+      "sha256": "178405178f679601c134ca579a5896863458f6943f78c2d53ee8ef6390213ab5",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1558.tif": {
+      "sha256": "d38797231169811861f8ee3e49df9fd1bfbec8ab894a026b837339c86585491f",
+      "bytes": 345061
+    },
+    "micrographs/micrograph156.png": {
+      "sha256": "0b4d7d89fc563626d181203401a761ce0ca5684e78cfe035f3f8baf92cba6158",
+      "bytes": 284691
+    },
+    "micrographs/micrograph1560.tif": {
+      "sha256": "9bf99f1cda35eb20468a2e50932983485002ef03e71cb54a430353fec4be6db6",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1561.tif": {
+      "sha256": "ef16bc702049a7e586d219f90d6a7da6d9db4d0bc0c38a167465ddd0e81121a7",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1562.tif": {
+      "sha256": "0a9d6f7141f94bd11a003b7a53abaf78eaba7b10569beea72313b3aef8017015",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1565.tif": {
+      "sha256": "6c29c05699f50778022acbb56288ae8eff375c136bad8cfd0562eb4f84a3d28a",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1569.png": {
+      "sha256": "354fffb9423185c7d9286541b7a2a191c426289da1754ba365b93cbf4dc48bd8",
+      "bytes": 280615
+    },
+    "micrographs/micrograph157.tif": {
+      "sha256": "f8a1659c229b6a1b1f5500fde792a427b133004dbda7b799ae5a5f13fa7bcc44",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1570.tif": {
+      "sha256": "bff7d93f70eeff0eaee910ee19601063f9aef3d88feb171d82b0850a0d301b9d",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1571.png": {
+      "sha256": "dd888d4699dcf2c0ae2c1596783228a5f9eddc8bf8f61d7777984a567cc0e678",
+      "bytes": 281901
+    },
+    "micrographs/micrograph1572.tif": {
+      "sha256": "32bd449f5b08f6c552a3a0ab356367920ac47c2e82f44876f51b9c5c20b829ee",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1573.tif": {
+      "sha256": "d245d5d77d3c2205dbd40675e632ec14e19e310f4f846d8a77cc49adf4cfa7e7",
+      "bytes": 345053
+    },
+    "micrographs/micrograph1574.tif": {
+      "sha256": "67a6e52b6544a703f82af3c7a5ff8b4caeab879984db5dfb694f4eb9d43be61d",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1575.tif": {
+      "sha256": "06eb34cac8af2de1b62231874daf40c85861f79ca973c16deb70da6ab839e306",
+      "bytes": 345053
+    },
+    "micrographs/micrograph1579.tif": {
+      "sha256": "41fa77f1f0db2dfed28915b0807a19c39a831d945c9abbd0802f0398155e2f0e",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1580.tif": {
+      "sha256": "53ba06a4cbd6c798058af67b518e06e58c2f1826b91e2d6ea277a39fac6a4671",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1581.tif": {
+      "sha256": "d6679a2370a34315674406eabe1103e7789021ddeda172f85cd1f5633d36f863",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1582.tif": {
+      "sha256": "d1c842f63fa6996b2501270f6ab26faada54b50bb6bf7d667ea954ee11dd765d",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1583.tif": {
+      "sha256": "f046e71c64ff82f7fc816c87920a310842eca08a3e5a7797f05f12ba7b2f2a8e",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1584.tif": {
+      "sha256": "0a5e5cd62084a0ad01e58f63574cc1baa13e934752b223f67d13437504d5f9b1",
+      "bytes": 345073
+    },
+    "micrographs/micrograph1586.tif": {
+      "sha256": "1023c0f10009aa993f1b03fd97d62556b399fe6d0b1bb74e2d26e53ab23b9124",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1587.tif": {
+      "sha256": "1781f50e5b069206661e038e4bf9d86396a91af4d07844359f3f7a7a49925362",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1588.tif": {
+      "sha256": "1d7f1f4d4ce1b4e2c82ecfacad89a5a75c397ff8b78c68457c0057c226ffeaf5",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1589.tif": {
+      "sha256": "ffc57eb600a459e42e59979773660c1895996af7c418b95ded280fa1f9641679",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1593.tif": {
+      "sha256": "80dd8156e2c01c52dd8885c800c7807173d16b8eb80ec8e3ad0aa0e0b10e1c0f",
+      "bytes": 345053
+    },
+    "micrographs/micrograph1595.tif": {
+      "sha256": "4ea9c11b58a3b7e055465ef642f0df7179a1f25da67755ee5ca8fd7482d7bd79",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1597.tif": {
+      "sha256": "09eea1cee3d8efedb801352fb49f686e57b21180aba3edd94e6e57322eb4ca27",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1599.tif": {
+      "sha256": "85238b20d24a7699f6edc39bd2b6d08c6c43d362800f98f18b229a7cc2de1923",
+      "bytes": 345065
+    },
+    "micrographs/micrograph160.tif": {
+      "sha256": "9dd4fc5189098ca43881dc05a65d60293afbaa0c8e91b81962769970f3b7dd33",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1601.tif": {
+      "sha256": "68047ec8d1f5b9d54bdeb91afbcd2fa4120d54b5d4bb96ce9bbab68ace14b27b",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1603.tif": {
+      "sha256": "d8027c714e7004d2303f10f8b392ad71749bd359009b2e3f73b6bab3fc6cef21",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1605.tif": {
+      "sha256": "4d2f306c908efb0065c1d826214f6946ee1ebf43fe9867a8b1c79ff6744a8ace",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1607.tif": {
+      "sha256": "25184e6adb3cc18f70b7964b0216174e7c8fa685247bff212645e5e6a6f81828",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1608.tif": {
+      "sha256": "6ee55edf346c1d668b43acce1c4daeaabdbd3cba5745b5d852f7d6beaeb6e63f",
+      "bytes": 345053
+    },
+    "micrographs/micrograph161.tif": {
+      "sha256": "8324d0aad05dfee03dbb1f3a369d9be28419739d94d5cb730375eb803dbc8b60",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1610.tif": {
+      "sha256": "a21fd119ef7299ed28a8f21d3b85e4ea44f166d3876f2e83d1f4ba1aca3ed842",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1611.tif": {
+      "sha256": "5ea42fc569e2ed0911c7d9dc5341f05cc7063517e3c3797a46d2ccbd20cff6f3",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1613.tif": {
+      "sha256": "43f6a54cafc06bbdf86f952db8580e586592caf74c8648809abd1ffe63fdd475",
+      "bytes": 345073
+    },
+    "micrographs/micrograph1615.tif": {
+      "sha256": "2ebfa31b8fb758202b382014d4ffce224c887cea864315b7c6aa53523de18dfd",
+      "bytes": 345073
+    },
+    "micrographs/micrograph162.tif": {
+      "sha256": "16222cae2134404fc5b0026330f7a41375db3482f2aeab8f40ee57f4def89146",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1623.tif": {
+      "sha256": "485ffb50a60dd73b72d8e1c01668c584b11878276754968334e473c2da35c5f1",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1624.tif": {
+      "sha256": "5d401407feeaff8ee054e10c5b5ca69c463871dc6f2546590d7b462550a1172a",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1625.tif": {
+      "sha256": "0dc063d5d9810623d7e03fe4828737cfa35517d78f7429e950fe5158934870c4",
+      "bytes": 345077
+    },
+    "micrographs/micrograph1626.tif": {
+      "sha256": "4f3bdbabecae4bf84ddc4b45c36be2ab2724568335b968ce5e1e2011202dbe95",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1627.tif": {
+      "sha256": "d997f024521c466e8d50be20d212faeeb36bc8c595e94efd928d600c3c1d60d0",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1633.png": {
+      "sha256": "ba931d0d8db54734f82a2472c48d2cda4e430bba544467fa5f7ac96e71630386",
+      "bytes": 290112
+    },
+    "micrographs/micrograph1634.tif": {
+      "sha256": "0d7c30b191b32380bd46f2484cae2ba0f8b3a979370ab53b6c9e27ba61fc128d",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1635.tif": {
+      "sha256": "ca33d767dd821b55ba4d7fd198b7582f9a878b03c6c59924ffbbb85ea6fb1f8b",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1637.tif": {
+      "sha256": "a6b7a0b2e74250078d27441a4a36e23193c7d35505ac19c82017ce336bf137bc",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1638.tif": {
+      "sha256": "ee3b92233c76ce55276ef5a13fc3572bb2dba5da62f60b1996a61d008d39b7dc",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1639.tif": {
+      "sha256": "a2628d546a706feea8938812881e76426b3f7daeeed498ef10d9c41d6e124cd0",
+      "bytes": 345053
+    },
+    "micrographs/micrograph1640.tif": {
+      "sha256": "4b308285a988de295408b78c2104b7fc7d3e8073e0eaf5415f216694177fb7f5",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1642.tif": {
+      "sha256": "171f3f39908c2d3b5d8f2e0c1c1a37bc44e692cd26e0fec0a48db0c9e9c0ff7d",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1643.tif": {
+      "sha256": "83c4fd63bae4c5c1d9dd407a536cb699cd93c421944526e0fab9f2cfd69f2adb",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1644.tif": {
+      "sha256": "e66ba8e9e6ef05c0b11887b7afd91681d97e5cb4f840639fe7ba0388569e77bd",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1645.tif": {
+      "sha256": "c5db6b0f83832246f06f28780c61c9870feffa0c0bc06da7d93faeae74ae6716",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1648.tif": {
+      "sha256": "9aa8593a14f300437a980f42eaf95d3cd23e4a00cb177895faff488ee54063dd",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1651.tif": {
+      "sha256": "9fa1d6700d9a2232dec2440bcb2843035d3995047bf3fc478fb6bd23ed7a5796",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1654.tif": {
+      "sha256": "ce3aa486f4544a9efb7a294b79e6435bc292b238bb24dada4fe26dec6647b343",
+      "bytes": 345073
+    },
+    "micrographs/micrograph1655.tif": {
+      "sha256": "5359844ddd7dcf8d6c42a4862c4bcf3d945d79d7c6b8e25339fb7db9fe868533",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1656.tif": {
+      "sha256": "8635413cfe4f1ff463a57ee6439a202893a43ab799bdd7e2d2f0a58f524986d8",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1657.tif": {
+      "sha256": "d293fca880bc9eaafc8cb1b24dea9730a487ab92f08af19b0841b1b768d07c96",
+      "bytes": 345061
+    },
+    "micrographs/micrograph166.tif": {
+      "sha256": "61cc7287d1401d5fe7847c1177a2fcea81da38c3ce38c15f2e9551f18d5d2aa0",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1661.tif": {
+      "sha256": "9c4bce399df68ed4f66f76b61590128c320aefd300d04c20ead31d61a41fc225",
+      "bytes": 345073
+    },
+    "micrographs/micrograph1662.tif": {
+      "sha256": "946ced2111d5127b4dc46c5982c2f7a1f3a42bcd36cf96ac5ef057116ec3c516",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1666.tif": {
+      "sha256": "db76bc3b5269920cd8944b6e24f9f52f7eea23de66e429e3ff5685dd0d850994",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1667.tif": {
+      "sha256": "57a07c7cbe0b7575380958c192ec7284f136adc0f4d3f8ea29ec653275b0197f",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1668.tif": {
+      "sha256": "af431ce5c6785f3c423d5d82e86784e8c9b04f782d0817086a0d5d4ad552235d",
+      "bytes": 345053
+    },
+    "micrographs/micrograph1671.tif": {
+      "sha256": "35d9f46a8485c051b95899f29065f444a62780f47de5a8c9a05e9c8e18cca03f",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1672.tif": {
+      "sha256": "e92459e6b5a6ddb9d2b51a0f5426af57975152469ad1449e5366d1b242ad3b8b",
+      "bytes": 345073
+    },
+    "micrographs/micrograph1675.tif": {
+      "sha256": "be1149bd23ced13ebc5fda1b40dc02d15c098757befe05a4043652fa64613a41",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1676.png": {
+      "sha256": "39619ecef955897209ced80cf0d684ac02d9195777fffa00a0381b5983d11224",
+      "bytes": 286877
+    },
+    "micrographs/micrograph1677.tif": {
+      "sha256": "b9719902f17b7ba999b00bcbbe1cdda1990bdd64e9e74dbade2b4c35ef3f9f8d",
+      "bytes": 345065
+    },
+    "micrographs/micrograph168.tif": {
+      "sha256": "1f72592853a78aece82cee6aaefbe215f7f7c3029a5bc433f49fdc4e362763c7",
+      "bytes": 345073
+    },
+    "micrographs/micrograph1682.tif": {
+      "sha256": "b270844fcbbc9d8cc3b4e1ca1227bd191de605e8a95a95ded149bceab1888d62",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1683.tif": {
+      "sha256": "057d2e435d362fb005b82bf1e6b5a77fae0cc7252ba2bc34d6351ab00ec95cf0",
+      "bytes": 345053
+    },
+    "micrographs/micrograph1684.tif": {
+      "sha256": "d7dcca7613aee3eb38f741ab84fe287ed6f3e7dd0f5ac4c23a14e06acce739f8",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1686.tif": {
+      "sha256": "609a0aa55f4e8e60ba3d4f5c9a214d1a34d95acd4386b9466977de36865226bb",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1689.tif": {
+      "sha256": "794f82af4019c23d7ede8c0b697f0995ba9e4c311c9908644bc315e1adc2c6dc",
+      "bytes": 345065
+    },
+    "micrographs/micrograph169.tif": {
+      "sha256": "06a3c55964257dd11d5ec440b02a53e56805a09eaf49780c89301b260b482a75",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1693.tif": {
+      "sha256": "e69d0cdb2e6e0bd0f4a3d11e771c952373bbf62761ffe57dd57cd1b864c6d8af",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1694.tif": {
+      "sha256": "3466511238b5fb774d0779ac76772784e3e322e81978078cb45182a4647064f6",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1696.tif": {
+      "sha256": "4a108b7116e86edcb710786f5793b1c74959e1efefe586eb7941d290a493273c",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1697.tif": {
+      "sha256": "f8b6c982f69bb274d6eab4ed997a4de80035304c29b8b8541907e623d6d424cc",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1698.tif": {
+      "sha256": "59671bc0ea0c4dd6d699d5bdb01acbe766d40b76320f12dda8eca9f87d814f1a",
+      "bytes": 345061
+    },
+    "micrographs/micrograph170.tif": {
+      "sha256": "b8976a21b878b9c0279bbeb36dd2952004856f211d96abd7e5e87dd55f390b54",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1700.tif": {
+      "sha256": "44ba4f333ee0bfaec3b4f3b7d03d143dabc436604f61035f66d121ea52c4ea41",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1702.tif": {
+      "sha256": "25d345fc0527cd752810409e6bbf50555b25d945767990479dfd434f19b04359",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1703.tif": {
+      "sha256": "c8e89e21649153dc4887c7b15961b3d6a76edab398c4b14764c57af8f881e171",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1707.tif": {
+      "sha256": "845d1bf1a8ccfefb30bcfafaa74b01f92a00fdab8225d0b9b21cdfd31d1d6b6a",
+      "bytes": 345065
+    },
+    "micrographs/micrograph171.tif": {
+      "sha256": "d92847a0ee011d3410942fb228be8e13e7979697c11902d6fcec6a7a23f1ebf2",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1710.tif": {
+      "sha256": "e95eddd4a746b8253d0da0ad2ec14018197d244e0e0462407e0429c09237bf16",
+      "bytes": 345069
+    },
+    "micrographs/micrograph1712.tif": {
+      "sha256": "acf919739ca9b3f4b9075c895139178b08ecd887d2c2a4ed92ac34bd14e293fd",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1716.tif": {
+      "sha256": "5652a68d4f12175e49e97cdb116cea96eb5da26d577cbfe70ccf4e725665e8f9",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1718.tif": {
+      "sha256": "4f5399d696c52746455f03f699a5e3f0d03a0e374a08ddd5d6b102c1fca4f5d4",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1719.tif": {
+      "sha256": "c4216b9443aa5c16e3da0dc577a71c2de81d15294fe011d9cd81841734430087",
+      "bytes": 345073
+    },
+    "micrographs/micrograph172.tif": {
+      "sha256": "4d1763965e04114b54613f4e0754e3b6fac33f67de71fab09edaa3d2efcc79bf",
+      "bytes": 345057
+    },
+    "micrographs/micrograph1720.tif": {
+      "sha256": "223aaf828f02cdc79a4c5de916aac3b1b13e74eaf9b97db9bb2b098d181ba984",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1721.tif": {
+      "sha256": "7f076a3bd68d7c13f9f60ab2d86b49cc3eb2f2f0a87cd87cb9daad7bc4a1a7b4",
+      "bytes": 345073
+    },
+    "micrographs/micrograph1722.tif": {
+      "sha256": "e8ee857423e13b0c0afca59d07ec3b4e272cd078eedf428bf28f7a92a386506f",
+      "bytes": 345065
+    },
+    "micrographs/micrograph1723.tif": {
+      "sha256": "da5e422a3ed54f9fb2af610f94483317f723bfc0ee73e308992ec07c20bb885a",
+      "bytes": 345073
+    },
+    "micrographs/micrograph1726.tif": {
+      "sha256": "bce2c71901678ff978c6921307900e929a23483ebcf16abdedc160c9eafbe372",
+      "bytes": 345057
+    },
+    "micrographs/micrograph173.png": {
+      "sha256": "869830153e044cf5e0aed05552a7a0c66bc43f35efaa50001e891d209f8a9652",
+      "bytes": 304250
+    },
+    "micrographs/micrograph1730.png": {
+      "sha256": "3762f98143db8ff9381fd0dd38cba3c7c5ef122490d647b4e13e9559e436ffd0",
+      "bytes": 289969
+    },
+    "micrographs/micrograph1731.tif": {
+      "sha256": "32607d2771db06b44b537d32d06a882af9222b83748b0a06ed09315d5cea3c94",
+      "bytes": 345061
+    },
+    "micrographs/micrograph1732.tif": {
+      "sha256": "4b455efda61d3d2bba7dd7c3f5c5be2649b80b81fed702d3d92aadf142fb9e2c",
+      "bytes": 345069
+    },
+    "micrographs/micrograph176.tif": {
+      "sha256": "aace42ec145e3886290728a543eb8bb8d5e6f99c4293823ceea4af0ace361358",
+      "bytes": 345065
+    },
+    "micrographs/micrograph177.png": {
+      "sha256": "6538560512b2b4eaf6014ba7c582b65d62e95e6f11edaafac9bc5ad94dd6a24e",
+      "bytes": 280029
+    },
+    "micrographs/micrograph178.tif": {
+      "sha256": "89d96a8a52ae9a6307123f9bb57bd12631aad8040907729e3b2f8d3dc69967a4",
+      "bytes": 345061
+    },
+    "micrographs/micrograph18.png": {
+      "sha256": "09d56b74ec6f61e95f75137d7b0503803414389feee7fba794535f3e60e24942",
+      "bytes": 301651
+    },
+    "micrographs/micrograph180.tif": {
+      "sha256": "9c786de8e4e2bcf068e4c530d033ba73bab7e4f67d56cbaf5698c9811a99051e",
+      "bytes": 345065
+    },
+    "micrographs/micrograph184.tif": {
+      "sha256": "a2fb2510b2b1a79cfec32f48c611ee3d5d42a379fc6723d055cbe9622c4a45d7",
+      "bytes": 345065
+    },
+    "micrographs/micrograph185.tif": {
+      "sha256": "d3de0118d46e14763fbf2d1eb6c2ae095c8a0319b6cf1bf102d2d98a9db8f4af",
+      "bytes": 345065
+    },
+    "micrographs/micrograph186.tif": {
+      "sha256": "95dcf6620e4c5a67840ce0e2f3ac9242662be442d3896973695c5faa4fd66b8e",
+      "bytes": 345061
+    },
+    "micrographs/micrograph188.tif": {
+      "sha256": "c0dd6978ca709be88c1f0562263d7699d3f9be5f5f6fde06f4872c64864b9ad2",
+      "bytes": 345073
+    },
+    "micrographs/micrograph189.tif": {
+      "sha256": "f54e467d319c61d975b512a2e42657dc529277298264cc2f817f938bc68ccb5e",
+      "bytes": 345057
+    },
+    "micrographs/micrograph191.tif": {
+      "sha256": "def6144ce18efe77482344d888c83b6b763c7e29f3c35aa91eaff1174ceef7c2",
+      "bytes": 345069
+    },
+    "micrographs/micrograph192.tif": {
+      "sha256": "a3c34e1565e0215b99bcd0579dd03d9f690adea4b2a84115deb0f10650079a50",
+      "bytes": 345065
+    },
+    "micrographs/micrograph193.tif": {
+      "sha256": "4bb679a11619b8db362834a0f04e21efed0e5bf985251f809d8a6e275152ea41",
+      "bytes": 345065
+    },
+    "micrographs/micrograph194.tif": {
+      "sha256": "a298a08863a49fbc17b92c1667ccb7c53ec82eda739cf6e484427dd0b5d9df45",
+      "bytes": 345061
+    },
+    "micrographs/micrograph195.tif": {
+      "sha256": "55d4e1e1ec3cc02f2736640af63aa1efe845863c929bbe8310661b7291f83e77",
+      "bytes": 345065
+    },
+    "micrographs/micrograph196.tif": {
+      "sha256": "3119bc66bb06a8a8d236ef55e1ba8788962d6681d634a51dd857ca205e141072",
+      "bytes": 345069
+    },
+    "micrographs/micrograph198.tif": {
+      "sha256": "21bf8fc4dff6854b3eb0fb3caff1d884e120535b0f01cd0c0f53183d9acd17dd",
+      "bytes": 345069
+    },
+    "micrographs/micrograph2.tif": {
+      "sha256": "b8c9b4351f2681b816f585e5bae744d6b843b8284155e90f5428e9ad2396b989",
+      "bytes": 345065
+    },
+    "micrographs/micrograph20.tif": {
+      "sha256": "6344c9f45b2f54dd9dba81963d3af7f9387fe801be7760b2d97f556c9832a871",
+      "bytes": 345073
+    },
+    "micrographs/micrograph200.tif": {
+      "sha256": "009bf828d87bd226c82d8b606b128c772e6c81b976dc9b6595a28da7fb889e57",
+      "bytes": 345061
+    },
+    "micrographs/micrograph201.tif": {
+      "sha256": "55c7801421b5f5258df6f77a410c77532d9e60eea0c673af4b85738d4db0db07",
+      "bytes": 345077
+    },
+    "micrographs/micrograph202.tif": {
+      "sha256": "048465acee0815832a55aa947e44cef625618076ff5982cd87977f3ebce1d2f3",
+      "bytes": 345061
+    },
+    "micrographs/micrograph204.tif": {
+      "sha256": "4d7ba0f050a62b9e1337e24e2f720b2e8f4dff4217d3b6f586d73a72932ad9ca",
+      "bytes": 345061
+    },
+    "micrographs/micrograph205.tif": {
+      "sha256": "8653bd03c1bba1ea158ffb811b48b95b622fac4a04da3cf54a7d97a055e791c1",
+      "bytes": 345069
+    },
+    "micrographs/micrograph209.tif": {
+      "sha256": "627f0954f9d25e34fff749d83ba5628882334e68382859d6b3a9a8fb1c88f2d1",
+      "bytes": 345065
+    },
+    "micrographs/micrograph21.tif": {
+      "sha256": "4c81a0e146d4778f9ff1d85fffcdfbe49e7f0c768665ef497591e575e830a0fa",
+      "bytes": 345065
+    },
+    "micrographs/micrograph210.tif": {
+      "sha256": "937f5f121bab3bedc9907f788f04c7ff4ff9e9f05260c61b76825f489b568d4e",
+      "bytes": 345057
+    },
+    "micrographs/micrograph211.tif": {
+      "sha256": "e4ceebe5b51e024db8de82145b23851f8ce1008c61d0afebd610851d6aa2428d",
+      "bytes": 345077
+    },
+    "micrographs/micrograph212.tif": {
+      "sha256": "f769240f167bdb7ded8ae5db9bf7a37b8331f7aefc0a23d66cd5a9e8c64ad8ca",
+      "bytes": 345061
+    },
+    "micrographs/micrograph214.tif": {
+      "sha256": "00eb9bbad3e0a6ddad3701a71182825745628cd8ec0e4bd8b1d9644d5350a58c",
+      "bytes": 345057
+    },
+    "micrographs/micrograph218.tif": {
+      "sha256": "635b0fff1cad83d295ba1012bee23eff5cb95418d298dd6246b2ccc370832657",
+      "bytes": 345069
+    },
+    "micrographs/micrograph220.tif": {
+      "sha256": "1f6f5e34b0e8617d966f1570ef6da01c03ab264050db40fa371d53bb08c57449",
+      "bytes": 345065
+    },
+    "micrographs/micrograph221.tif": {
+      "sha256": "6323a81e3a9e92a7da9275d4adf2d23b6393e04ca2d7a25985ae4caed0512f4c",
+      "bytes": 345057
+    },
+    "micrographs/micrograph222.tif": {
+      "sha256": "724e9e45ff6e75a227e80a8f10a4a911c08eb0517881ddea6ae297bb8223fd4a",
+      "bytes": 345061
+    },
+    "micrographs/micrograph223.png": {
+      "sha256": "78c73fa4daf3e1386733884498ecd2416ad92ef63a71f36dfb107b463480d111",
+      "bytes": 288418
+    },
+    "micrographs/micrograph224.tif": {
+      "sha256": "55c437d9f94032514f5d42c2be52b5c1e689e1e68fef083971fce843c246a8d5",
+      "bytes": 345065
+    },
+    "micrographs/micrograph229.tif": {
+      "sha256": "96941e9b5e668cf950dfcbc98d695cd85e24a3d085f4c8997c6d3edcafab2444",
+      "bytes": 345065
+    },
+    "micrographs/micrograph231.tif": {
+      "sha256": "2234a971374d13425c56e0ef5f358315eed3149cd11262b237738aaaafd72dfd",
+      "bytes": 345057
+    },
+    "micrographs/micrograph233.tif": {
+      "sha256": "ec57073c07d63d762869db099455b26e87b0da27470ae2f4062bbac39cc8558e",
+      "bytes": 345061
+    },
+    "micrographs/micrograph234.tif": {
+      "sha256": "fdba8543d9d02f234a20c47c7c5a139bbbf937f96060579e3efcaa67f90c77bf",
+      "bytes": 345053
+    },
+    "micrographs/micrograph235.tif": {
+      "sha256": "be8a2f5604c0e7e4eda321f5a281a56cce488dfc290cb63cad4051b30f5e7573",
+      "bytes": 345065
+    },
+    "micrographs/micrograph237.tif": {
+      "sha256": "479e6d171ec14386f9024290b1b9b652f7efd4f6b5d97359ea1f1021b04d4869",
+      "bytes": 345061
+    },
+    "micrographs/micrograph24.tif": {
+      "sha256": "260ce49c504c3a80484404a3977167835164a0d6671a268cd63cf13d34975db9",
+      "bytes": 345065
+    },
+    "micrographs/micrograph242.tif": {
+      "sha256": "f5315d53e95718447efe8bd4bc774194f61367fb909e728f7a75d92085801258",
+      "bytes": 345073
+    },
+    "micrographs/micrograph243.png": {
+      "sha256": "d1aa0341fe6ae77d4184168b0231574ba955c2d901452b128278d491810fcb96",
+      "bytes": 304370
+    },
+    "micrographs/micrograph245.tif": {
+      "sha256": "4dc499e7d6e148e48d0b0c46080fa43c1917c9b74516acc02ba8cbc318861a16",
+      "bytes": 345061
+    },
+    "micrographs/micrograph247.tif": {
+      "sha256": "e6f67eb9d439147d40f8bdb9e01388005630b67598d8f5b83b77a823af957cc7",
+      "bytes": 345069
+    },
+    "micrographs/micrograph248.tif": {
+      "sha256": "0d8dc154e1d248b931644effd74ed853420facfe0a1dca8c2c9a3e2d2fb4a8a4",
+      "bytes": 345069
+    },
+    "micrographs/micrograph251.tif": {
+      "sha256": "60dad1538e6c567f1f095ab5bbe3acd45d922ed04fd05d186d9af34eedfc7164",
+      "bytes": 345069
+    },
+    "micrographs/micrograph252.tif": {
+      "sha256": "8632d0cc2d0af2c1e2c33b0f9ca956e89b2d339b17b083b7305a98ec2046f390",
+      "bytes": 345061
+    },
+    "micrographs/micrograph253.tif": {
+      "sha256": "eb3a4b0b673dd89b4b645a40175eaa3882e68595778e162ac8163c11901278ec",
+      "bytes": 345069
+    },
+    "micrographs/micrograph255.tif": {
+      "sha256": "ce54420b5f6126a673ad5e0dfccb987798044800d69ace9a6519e9f9ecab8c36",
+      "bytes": 345065
+    },
+    "micrographs/micrograph257.tif": {
+      "sha256": "3fa1235ed205e86e1a92931cd50fdfa798a2a98c94dd41be280f10bf1628da9a",
+      "bytes": 345061
+    },
+    "micrographs/micrograph26.tif": {
+      "sha256": "1c8edaa3ea391eea913a03ceb448b03e075c45504b30544a92d1f448f0336289",
+      "bytes": 345069
+    },
+    "micrographs/micrograph261.tif": {
+      "sha256": "c70edda98210d9ecc39d5b101456e1aaf574f8622bda40097f3e95c83707d9dd",
+      "bytes": 345069
+    },
+    "micrographs/micrograph265.tif": {
+      "sha256": "de81c2c07c3068b029d5ee51803de42b0423c82c9631ff94a18d1b571d9cfa77",
+      "bytes": 345065
+    },
+    "micrographs/micrograph269.tif": {
+      "sha256": "ed75318744321717f5d3758c8844c7def9cc2d7d0bd87644534ab8ee95e3239f",
+      "bytes": 345057
+    },
+    "micrographs/micrograph271.tif": {
+      "sha256": "3fb694a256eae3c9307270c57c712e357afd0eb1e8049af9cf3be8d964c6579d",
+      "bytes": 345069
+    },
+    "micrographs/micrograph272.tif": {
+      "sha256": "bff776168aab5d987a31e991052897471164e5457c89a80af1880583aca9be11",
+      "bytes": 345061
+    },
+    "micrographs/micrograph273.tif": {
+      "sha256": "b65b4fd4fecabbbcb6c7caa7f6796b454bf93770c99fae28c9160ce08729629f",
+      "bytes": 345069
+    },
+    "micrographs/micrograph28.tif": {
+      "sha256": "ac3b02eeecd2865e297bcf8570ddd6c51ea541d13491987522269c9e0961612d",
+      "bytes": 345053
+    },
+    "micrographs/micrograph280.tif": {
+      "sha256": "70d526f0337d44a69f6ccded0342be153b12acdfeb1216c75d867fa6c84487dc",
+      "bytes": 345061
+    },
+    "micrographs/micrograph283.tif": {
+      "sha256": "5e1c2e399253c374309b9ec70ebe730aed4eb883f0f11a54ebd5511290371256",
+      "bytes": 345065
+    },
+    "micrographs/micrograph284.tif": {
+      "sha256": "9d5aaf8a8adb01da7a98239ec97703b3a090bc4cc5246a5054dd16ab97d934bc",
+      "bytes": 345057
+    },
+    "micrographs/micrograph285.tif": {
+      "sha256": "772e72d31102863565ac8985aa695342db9220b6e651293715de893f1eec5f94",
+      "bytes": 345061
+    },
+    "micrographs/micrograph286.tif": {
+      "sha256": "7be648b7307faf5bb706ac14d975806d4533da8178dc5d1af5a4c431161efe97",
+      "bytes": 345061
+    },
+    "micrographs/micrograph288.tif": {
+      "sha256": "57d8666ff23aa05c02b2ccc3a558307705c91f6557eb4e253d4564f4dae0bca7",
+      "bytes": 345057
+    },
+    "micrographs/micrograph29.tif": {
+      "sha256": "ec21a86aba83d163af2c80e7e0e4e4a3fdc920d9e06e3a48ac7a77c84c381b3c",
+      "bytes": 345069
+    },
+    "micrographs/micrograph295.tif": {
+      "sha256": "e835d480b3108ecb8158bbe7c1f1065b27a0599c1d3a5d99c557d4c1c0674e3b",
+      "bytes": 345069
+    },
+    "micrographs/micrograph296.tif": {
+      "sha256": "3314d95b4af0637f77c3c52d5430600df3ab4ac281af1fcb87492c4d812842bb",
+      "bytes": 345065
+    },
+    "micrographs/micrograph297.tif": {
+      "sha256": "e3fcf7407e5374c2dcf14621177e8d755fb8578b5681cacc788e5c871b054899",
+      "bytes": 345061
+    },
+    "micrographs/micrograph30.tif": {
+      "sha256": "a033e4331105ae06969ff38337d68b930b6812bfa3d023b61a1f156092795202",
+      "bytes": 345053
+    },
+    "micrographs/micrograph301.tif": {
+      "sha256": "2d34a8dd18d88385087a1653af921da9dd2450b9ebf61a5e39edadd7b100dbea",
+      "bytes": 345069
+    },
+    "micrographs/micrograph305.tif": {
+      "sha256": "2b517506d05f76f753f0f0eea415cef919af2674b04f52102c7656fa2d3ecff2",
+      "bytes": 345061
+    },
+    "micrographs/micrograph306.tif": {
+      "sha256": "a8af18f306e20eb09fa368d0da9d888a15524840465517fcafcc15e18aa3d4fb",
+      "bytes": 345069
+    },
+    "micrographs/micrograph308.tif": {
+      "sha256": "7172ee6ccfccb5df1869925a2dda9893e5534511653324109dbac905877cb131",
+      "bytes": 345053
+    },
+    "micrographs/micrograph309.tif": {
+      "sha256": "b055f59b2375dfd140d6c4e9ee3ca80aef2e0fafb61f41c5997bdc33df78c08d",
+      "bytes": 345061
+    },
+    "micrographs/micrograph31.tif": {
+      "sha256": "fde6d7812fcd3d356b2cb0411aeec8bd8b2746b23eeaf8bcb06bf1523f168e2f",
+      "bytes": 345053
+    },
+    "micrographs/micrograph311.tif": {
+      "sha256": "5160ee669927fc5ddeb369f70d417ff1f6d1ece5fa72a1f51fa6dda3e64e2f45",
+      "bytes": 345069
+    },
+    "micrographs/micrograph312.tif": {
+      "sha256": "b2e113638de2de38eb2071593346d6f82deb0081a2d5f4524fa6d45dbd2ff2a3",
+      "bytes": 345065
+    },
+    "micrographs/micrograph313.tif": {
+      "sha256": "6ae860bce063b7692aadbe8353acb49005e338a2666e07ecff8b0723cc210073",
+      "bytes": 345057
+    },
+    "micrographs/micrograph314.tif": {
+      "sha256": "791345cee09d1732102aa41aa07d754d9cb67b9d25bbe67b62f122ef2c01c0b6",
+      "bytes": 345057
+    },
+    "micrographs/micrograph316.tif": {
+      "sha256": "dec92a4227c571e207d66275df914cff259bb298b81e329404d2cfe85ac32a1d",
+      "bytes": 345073
+    },
+    "micrographs/micrograph318.png": {
+      "sha256": "3007ff029474bef53ce81765b0bb23f808955b67573784d0593b2819997e6d6c",
+      "bytes": 292485
+    },
+    "micrographs/micrograph319.png": {
+      "sha256": "e3aef89f5c2c9dfe1ce662920b6032b3ffe6805e8993f0565799f37d4d68c8e1",
+      "bytes": 299686
+    },
+    "micrographs/micrograph32.tif": {
+      "sha256": "ed12c1749112d043bf8a29b72134c1a03fb34c19519bd02d3a2330b2bb554284",
+      "bytes": 345061
+    },
+    "micrographs/micrograph321.tif": {
+      "sha256": "46acaf193ce31b0149ac1e6f5d6b00a8c67461f60e4982146c55e2544bb03b12",
+      "bytes": 345065
+    },
+    "micrographs/micrograph322.tif": {
+      "sha256": "123bed470b701b0ca918c0785eb25fa431e708bec710a146478ace77cad9816e",
+      "bytes": 345061
+    },
+    "micrographs/micrograph325.tif": {
+      "sha256": "2143bd94acaa24db33b238fd9eca5188766e9750b430c93133ea7547f7728219",
+      "bytes": 345069
+    },
+    "micrographs/micrograph326.tif": {
+      "sha256": "ec0441780e613c2eecdf5240196a63dbd0eba79a826e0c137d68878abc7be1db",
+      "bytes": 345065
+    },
+    "micrographs/micrograph329.tif": {
+      "sha256": "58d8e4ed1a1f3dd04f86c08e19a7fdf13d3652db61cd0997b63a5b787da4ebf7",
+      "bytes": 345069
+    },
+    "micrographs/micrograph33.tif": {
+      "sha256": "333521c3964bbeae2e0e7c2c9b75a441aa4a89bc3a13e0a5b2dc73ba518f2513",
+      "bytes": 345061
+    },
+    "micrographs/micrograph330.tif": {
+      "sha256": "03628b8b27a37feeb587052f934e0b6774747f9ae0616451caad33aba26075f0",
+      "bytes": 345065
+    },
+    "micrographs/micrograph333.tif": {
+      "sha256": "cf0e8700561573aacaf05884f9beb9166696f112ea51d3c386ed1438d033ebfc",
+      "bytes": 345069
+    },
+    "micrographs/micrograph337.tif": {
+      "sha256": "7b67dd9650ef7a58b439c2df6f8ecb8ff2a50dd3543d5b518dc4cb03a0968169",
+      "bytes": 345065
+    },
+    "micrographs/micrograph342.tif": {
+      "sha256": "17337f0558702690ebb87cb004e26ab2264d404b1d82297e876c582c50d40a87",
+      "bytes": 345061
+    },
+    "micrographs/micrograph343.png": {
+      "sha256": "4add20cc8d667d50dad697e2b17f335a80628f41e3afcff69fab8668f978cbff",
+      "bytes": 303599
+    },
+    "micrographs/micrograph345.tif": {
+      "sha256": "51a3b3169cf19ab2ed305a5e032541af07bfe20815a491f9ed32240bf373b0b1",
+      "bytes": 345073
+    },
+    "micrographs/micrograph346.tif": {
+      "sha256": "9579fc256aa98f2d31b9f9c78b9546259bb2e896cc24a25a66e9ad9d1cbb681f",
+      "bytes": 345057
+    },
+    "micrographs/micrograph347.tif": {
+      "sha256": "e03411122fece3b789eb500ffbb53a18bf964eac781fd4f0aedab66925cfa3f2",
+      "bytes": 345061
+    },
+    "micrographs/micrograph349.tif": {
+      "sha256": "7aa549f4cda90f7487e67e579f89f88afa6c28075a8e55e038a8f16435f74008",
+      "bytes": 345065
+    },
+    "micrographs/micrograph35.tif": {
+      "sha256": "8da5af88fb74311f346609031523df0db81af3d1e06ee78dc676c7c134f837b3",
+      "bytes": 345061
+    },
+    "micrographs/micrograph351.tif": {
+      "sha256": "954668cac4d00071fbf8a3b0e323d50dd4483d3c217c2c97545832d937ee639c",
+      "bytes": 345065
+    },
+    "micrographs/micrograph352.tif": {
+      "sha256": "714276ed304a2ceca34c83fb2078777b27bdd6c4f5e9b93f41f7310e94b64135",
+      "bytes": 345065
+    },
+    "micrographs/micrograph353.tif": {
+      "sha256": "8cb20a0485954667a4ba4531ddbb10260e4ebc5b002eec57738743f59ad65cf1",
+      "bytes": 345057
+    },
+    "micrographs/micrograph354.tif": {
+      "sha256": "fc5d07b207c97d720032f86e5c0224383048ba4f759fbde73f57bee975a11d21",
+      "bytes": 345065
+    },
+    "micrographs/micrograph357.tif": {
+      "sha256": "59fd88d3a63c3deca5a6a7e4ff44b29e21fba46de5bd90ca2343cf2866ddddc4",
+      "bytes": 345061
+    },
+    "micrographs/micrograph359.tif": {
+      "sha256": "8d74ad59b5001d19895687a6840d79cc0016191dc82a33e3165ade589841602c",
+      "bytes": 345057
+    },
+    "micrographs/micrograph36.tif": {
+      "sha256": "8d7d5495438d216b707b1fd528f78a141797731851e9b4edfabba5ae1cd58a9c",
+      "bytes": 345053
+    },
+    "micrographs/micrograph360.tif": {
+      "sha256": "4c68f4186e57f706f231fc4977c822312a7e0bcfc4895503c0d3ba7e10814c96",
+      "bytes": 345061
+    },
+    "micrographs/micrograph363.tif": {
+      "sha256": "a97be034072bd4d5a3e29f5979f7423f78f7697623f97782e7414e6800a47955",
+      "bytes": 345065
+    },
+    "micrographs/micrograph364.tif": {
+      "sha256": "9b45a35833343598128bc8c330d0a2ef69ca010dca60300e2ca8b979c6cf3f7b",
+      "bytes": 345061
+    },
+    "micrographs/micrograph366.tif": {
+      "sha256": "443e0feef50c7e6e2adf5289c2478fd31b4223e83d201c0fa23b17a97046e361",
+      "bytes": 345061
+    },
+    "micrographs/micrograph367.tif": {
+      "sha256": "83a4a895a9e5063532250283c3ce64e6b4bd11be47eb51fc2cb12d5146d2cff6",
+      "bytes": 345065
+    },
+    "micrographs/micrograph368.tif": {
+      "sha256": "76af048c22946f49dd4eec33954be9e040df579fc80c07f133d9665ee714dc49",
+      "bytes": 345065
+    },
+    "micrographs/micrograph369.tif": {
+      "sha256": "b9ea76a75fb3842c8d2f92ee6164feb83ea7d0f4d641494eac2e0ba7bba23291",
+      "bytes": 345065
+    },
+    "micrographs/micrograph37.tif": {
+      "sha256": "b6a1575f51ac22f0f4ba2d76e46362203c8dd1f3b34c99d32d934845601edefb",
+      "bytes": 345061
+    },
+    "micrographs/micrograph371.tif": {
+      "sha256": "c64989f6ee32b2b3e62342df4113e555348f76f297ce384ff12217850b4c9ece",
+      "bytes": 345065
+    },
+    "micrographs/micrograph373.tif": {
+      "sha256": "6dd510303058560aa31ff4d01ab5d240a09c236e9c8340d9eb05c1b00487172d",
+      "bytes": 345069
+    },
+    "micrographs/micrograph375.tif": {
+      "sha256": "77dc83163c91f24dfc62120354d24c3ba58e5aaa6b83a8e540402efdefb1acb2",
+      "bytes": 345057
+    },
+    "micrographs/micrograph376.tif": {
+      "sha256": "015303f6185d8a1651b6a8dad775deffd205f658fd6c939cec6b56960a9e118c",
+      "bytes": 345061
+    },
+    "micrographs/micrograph380.tif": {
+      "sha256": "64e542d61219dda44456b4bc99725c7037f1143605c4f2fadfa3f46c7c448a15",
+      "bytes": 345065
+    },
+    "micrographs/micrograph381.tif": {
+      "sha256": "5130711b4fcedf5305dc6fd50c4af66fda7ee0452df9f3f4941ec9406bc56ed0",
+      "bytes": 345073
+    },
+    "micrographs/micrograph382.tif": {
+      "sha256": "de3200f2800147440ef764149265983b5021128c671aed6f813fcde20be151e2",
+      "bytes": 345061
+    },
+    "micrographs/micrograph383.tif": {
+      "sha256": "7b04414d595ecd4fd3c6b977fb940f2b86f926b6b1a3923e84497cde2516ca35",
+      "bytes": 345061
+    },
+    "micrographs/micrograph384.tif": {
+      "sha256": "431953fd4ba14b4c9644c453d70f176ea1ed6a34870bf36e2adfc6f132bf1a43",
+      "bytes": 345069
+    },
+    "micrographs/micrograph386.tif": {
+      "sha256": "d69e80a9a1dd7858a95bb1cfe6c64e8de59f1e566f2d80e3dbf7678397f84742",
+      "bytes": 345065
+    },
+    "micrographs/micrograph387.tif": {
+      "sha256": "a78e651453a82dd9fb8ecb254c008c819cd95e7837f9001bcb88435d5f72f816",
+      "bytes": 345065
+    },
+    "micrographs/micrograph388.png": {
+      "sha256": "792f007c78c56fb5dabaf38cea339a56f7360f86e7f5dd091a47a70510c43d26",
+      "bytes": 294873
+    },
+    "micrographs/micrograph39.tif": {
+      "sha256": "d7bffebe450c083dbfcbbb3b202be02291e16aca4eba7c872c2880df0531e198",
+      "bytes": 345057
+    },
+    "micrographs/micrograph391.tif": {
+      "sha256": "468f2550ffbefdd81a78435c43cf840cd45e606bcf712753ad3568ba2bf17165",
+      "bytes": 345065
+    },
+    "micrographs/micrograph392.tif": {
+      "sha256": "d95f65dfe3bc4bf1b75378a1247cf99da1d229158f9f5335671a53bb4b405e3e",
+      "bytes": 345061
+    },
+    "micrographs/micrograph396.tif": {
+      "sha256": "7f6cc11f59517adf54f5d1c279c5c657612cbaab292314c336864912fecc3460",
+      "bytes": 345057
+    },
+    "micrographs/micrograph397.tif": {
+      "sha256": "ed4312204330d605721f76a3302405afaf65a3039d0093ed1735a65983216a3a",
+      "bytes": 345057
+    },
+    "micrographs/micrograph398.tif": {
+      "sha256": "fcdfee5e541ca01e80fa177bede01c2ff64715fad178927e9df061a3020b1d97",
+      "bytes": 345061
+    },
+    "micrographs/micrograph4.tif": {
+      "sha256": "ac6fcc066bfafd0bcde3158f0c5562692bca8fac42cbdae4c7250506da6332b7",
+      "bytes": 345065
+    },
+    "micrographs/micrograph401.tif": {
+      "sha256": "7434ebac1881003e4d906ee5b0bdff309e088accf764706b58afebbeccca510a",
+      "bytes": 345077
+    },
+    "micrographs/micrograph402.tif": {
+      "sha256": "7a0a939115753f23bd9ef79605b5b770351c0539f66ec38302fec0d5cff2cf50",
+      "bytes": 345061
+    },
+    "micrographs/micrograph403.tif": {
+      "sha256": "bbc65e7b5b6297abf9246c5d21f36deef87fe6a03cb88a6cade08a9e08d82c0d",
+      "bytes": 345069
+    },
+    "micrographs/micrograph404.tif": {
+      "sha256": "3f864e36ff10e5578919e3cb5732961c7bfa498cd836fab0f49bc502e3d6eefb",
+      "bytes": 345057
+    },
+    "micrographs/micrograph406.tif": {
+      "sha256": "06f2a00bf8a18981c1f6f7657ae12c1dda16c785dab616795af1b09b2c59c3d3",
+      "bytes": 345069
+    },
+    "micrographs/micrograph407.tif": {
+      "sha256": "a361891951105f493ffeaa0321e3415cc067059281e965a5adf633345802b8c0",
+      "bytes": 345057
+    },
+    "micrographs/micrograph408.tif": {
+      "sha256": "f650459621137093e64fcebe55bcd890b760f9a7d0e178893c39e7ad6a1fb7bd",
+      "bytes": 345065
+    },
+    "micrographs/micrograph41.tif": {
+      "sha256": "f3c01e3d83a869e8c29f280e2c75649cf62ade3e96234f4f87df3f5f3b42eab7",
+      "bytes": 345073
+    },
+    "micrographs/micrograph411.tif": {
+      "sha256": "255b8a41e6f1605d4035e40c93f0c4a2e306aa8c32cb18716578ffcac4479646",
+      "bytes": 345069
+    },
+    "micrographs/micrograph418.tif": {
+      "sha256": "7c8ee813aa15cf1e2e9e626928c081ba98b182c9a0689d1165ffda55d33e1153",
+      "bytes": 345061
+    },
+    "micrographs/micrograph419.tif": {
+      "sha256": "0200a848d656ab607a5cd3ce325bec7e9274441ed5cdecb8b427246dfcc8f3b7",
+      "bytes": 345069
+    },
+    "micrographs/micrograph42.tif": {
+      "sha256": "b8cc26962683dea00ebde2a5f9d9e3d398be8df6193d3ddde1b4e57cc3dab765",
+      "bytes": 345057
+    },
+    "micrographs/micrograph421.tif": {
+      "sha256": "43e914a066138b0506468bbc36db5ac448bc4eff8d30368585ef944e93a0ef2e",
+      "bytes": 345061
+    },
+    "micrographs/micrograph422.tif": {
+      "sha256": "b50e2eb98857541fa04702b57751e2018e23185bc014b8dd38e418807880baae",
+      "bytes": 345073
+    },
+    "micrographs/micrograph427.png": {
+      "sha256": "cfdea98d533b873fa6b61619943606fd3a2741352838c9ef28a5c6f9e93a2566",
+      "bytes": 272485
+    },
+    "micrographs/micrograph430.tif": {
+      "sha256": "4b1f5c9dfbf670a2cf261c74edf1602ad87f1676715e8f245d190ba39b451475",
+      "bytes": 345065
+    },
+    "micrographs/micrograph431.tif": {
+      "sha256": "4e13379f5c088e891961699703108fbc24bb5fa78dda3a4cca4fb7aea86075cb",
+      "bytes": 345053
+    },
+    "micrographs/micrograph433.tif": {
+      "sha256": "2ab5c537d3fafd790ee80e265b8baabc173632f445ffe0fea6c14ef7236ebad1",
+      "bytes": 345061
+    },
+    "micrographs/micrograph435.png": {
+      "sha256": "b20927db13a06f131b00176830396d1d650892e3d055a0b03a6276a0cab4f750",
+      "bytes": 300677
+    },
+    "micrographs/micrograph436.png": {
+      "sha256": "0ea3820911b2139c7a0c261030ad1184aaf624007e3d289e5e8b54f95d765550",
+      "bytes": 288529
+    },
+    "micrographs/micrograph437.tif": {
+      "sha256": "b30e0fb604d888e9e100e170dd037815f914f9c36647ca1039a6ded843e5bf3a",
+      "bytes": 345057
+    },
+    "micrographs/micrograph44.tif": {
+      "sha256": "06fba687302c3e5505d6f0343a0ab80ac92e6b8ef090a7a8586823b2e71437c6",
+      "bytes": 345065
+    },
+    "micrographs/micrograph440.png": {
+      "sha256": "21204d8f81c77dea71588cf8706303718ba8bff32fad332b5d11d4c8c14b1338",
+      "bytes": 284342
+    },
+    "micrographs/micrograph441.tif": {
+      "sha256": "ae90a18a0f2b0d9a7e7c79f0c20587852e6d23c72ffad2b3ac0df18a44b00fda",
+      "bytes": 345057
+    },
+    "micrographs/micrograph442.tif": {
+      "sha256": "e88148139835f10f0c181fbafde94515fa664113a27c9633d608e9506dabeb93",
+      "bytes": 345069
+    },
+    "micrographs/micrograph443.tif": {
+      "sha256": "802f37ed1a25201ca444309b8faac204c347cb90738c90c99a408912b3ef9df3",
+      "bytes": 345065
+    },
+    "micrographs/micrograph447.tif": {
+      "sha256": "b8fa415d21e84c190abe479583894da862ef4ca17a79f08cdf114a844e603312",
+      "bytes": 345069
+    },
+    "micrographs/micrograph449.tif": {
+      "sha256": "35ae7bfc1ab96bbed64a83582c5f6602a2a3d93f25b14118c75f72bc91416dc4",
+      "bytes": 345065
+    },
+    "micrographs/micrograph451.tif": {
+      "sha256": "0995df015a0c12b2e3083a7496a9950703f6d6746af3b39a9674280047d98fa7",
+      "bytes": 345061
+    },
+    "micrographs/micrograph452.tif": {
+      "sha256": "b9c863b6d321508bf9f1f8fe8827dc097d627ff579945927ecf5f50df45e8e63",
+      "bytes": 345061
+    },
+    "micrographs/micrograph453.tif": {
+      "sha256": "3ccba858d1af1f36b0877a0b0732a53cb03574ee2642f4d27174cda64a90d9c7",
+      "bytes": 345053
+    },
+    "micrographs/micrograph454.tif": {
+      "sha256": "4d292cbb64c13d750ed74507aa894f98c76ceb05c4a2b9ab572784756d5542f8",
+      "bytes": 345057
+    },
+    "micrographs/micrograph457.png": {
+      "sha256": "ec00f5c288a09fb718952b4642d6e14b58b08febae366840caacf5468c3b0d80",
+      "bytes": 275176
+    },
+    "micrographs/micrograph458.tif": {
+      "sha256": "ef52614328f048f71cc5829825cce9a2e9e51be4456532144fe8627ea78f2dd4",
+      "bytes": 345065
+    },
+    "micrographs/micrograph459.tif": {
+      "sha256": "07ac833d595570629591f10a8fd478595b6e7d9a089f267e38d788141c81883b",
+      "bytes": 345073
+    },
+    "micrographs/micrograph46.tif": {
+      "sha256": "c5e5ed8977a5d5b9ecd91f1891b66ec4fe241a4cc762f033ef89682c0ec93a9a",
+      "bytes": 345065
+    },
+    "micrographs/micrograph463.tif": {
+      "sha256": "50a5e9e2addbf725dbb47b0396c30fbeab3033988b974f3758c56223f890718a",
+      "bytes": 345069
+    },
+    "micrographs/micrograph464.tif": {
+      "sha256": "ac6f293da4fb52a6d285782e3e5c9951860b278d6e3bc67a43dba82750d72464",
+      "bytes": 345065
+    },
+    "micrographs/micrograph465.tif": {
+      "sha256": "7c7017ab0075ecb5d2da0abb474ad13cd3b1aafe87d7adc6143557ba41e3de29",
+      "bytes": 345065
+    },
+    "micrographs/micrograph466.tif": {
+      "sha256": "691447dcd582389f18bcf3bb15215f651e84eb999af7aab59ef9ea50c7945371",
+      "bytes": 345061
+    },
+    "micrographs/micrograph468.png": {
+      "sha256": "5ddcb4c3aa19a65841d704fbfa080af676ef841580a887047920bb5baf899ab2",
+      "bytes": 302804
+    },
+    "micrographs/micrograph47.tif": {
+      "sha256": "4adb61578490b20811fb43ffaaf72001caac7f396ea4f3a3acb4a6a2fa9374c8",
+      "bytes": 345053
+    },
+    "micrographs/micrograph470.tif": {
+      "sha256": "38502563ed7aa916042d0e2f9f2d8ca8e47f27509f5b4976feb1de9ac7d17bfd",
+      "bytes": 345065
+    },
+    "micrographs/micrograph471.tif": {
+      "sha256": "95499c96d71687193662301552c4aa99dbef30638575ae059d2f27539c7097df",
+      "bytes": 345065
+    },
+    "micrographs/micrograph472.tif": {
+      "sha256": "eaa86062d47fd11754148a8d8b4adcddec767bd837ba9fa11148c25b806618e7",
+      "bytes": 345065
+    },
+    "micrographs/micrograph474.png": {
+      "sha256": "449b571d6a75f4a01f5ee0ba5ffb3a37515e9bca7b1fe6aaa743c4223f411e58",
+      "bytes": 295711
+    },
+    "micrographs/micrograph475.tif": {
+      "sha256": "9264cbc44718f5c5b5898061eac1ab3878debaa4411565ed58f5d8ee53ca7ad0",
+      "bytes": 345057
+    },
+    "micrographs/micrograph477.tif": {
+      "sha256": "bffc852b79bcc35318a46973c7817b8be29f3f7deb851029a2e0ef0b938f1456",
+      "bytes": 345069
+    },
+    "micrographs/micrograph479.tif": {
+      "sha256": "637722e239c1562bada89d1945891b24020a7769bb17f9baf0c947bc9122a1f4",
+      "bytes": 345065
+    },
+    "micrographs/micrograph48.tif": {
+      "sha256": "0b90dc8ad35e9de06dec91abbdd2bcac85d396c4e7d94c85885a4de6f1c69b44",
+      "bytes": 345073
+    },
+    "micrographs/micrograph480.tif": {
+      "sha256": "1ad43f4117ec39b2677ac93f9bb831a141e6c56399389a50f5c46cfbb20091af",
+      "bytes": 345065
+    },
+    "micrographs/micrograph481.tif": {
+      "sha256": "e8d256f0f7a2286919790cf64d93baf7cabafde6b80ea25e43315f99b8df29fd",
+      "bytes": 345065
+    },
+    "micrographs/micrograph483.tif": {
+      "sha256": "256be6e31d3806225d352e545d071c95f59afe9057a4284043d0364a8917c32f",
+      "bytes": 345065
+    },
+    "micrographs/micrograph484.tif": {
+      "sha256": "1cffd9c62f6754207b7e6dd4ac612b468bdb7dffc8cec9ab78f1d8c58baa7707",
+      "bytes": 345061
+    },
+    "micrographs/micrograph486.tif": {
+      "sha256": "9c4714345a09465370ffed03659a721737a895192b82d8c4a6b3d223f6d7002c",
+      "bytes": 345069
+    },
+    "micrographs/micrograph487.tif": {
+      "sha256": "44aa2819bd30025a0895c753e25cb3800c707580cfc55e2f62e8ea4464301cfd",
+      "bytes": 345077
+    },
+    "micrographs/micrograph488.tif": {
+      "sha256": "2a6aa2c45967bb4967126e3f66cbc42e3cf174a8e3d8b20c3cc93671ac789b13",
+      "bytes": 345061
+    },
+    "micrographs/micrograph489.tif": {
+      "sha256": "0c62c0a12921108969e5897ee6d4f0010b0a92552a49a87058d36690a6fb042a",
+      "bytes": 345065
+    },
+    "micrographs/micrograph49.tif": {
+      "sha256": "0cba9a5e4957025ebcb9e29c2042b71a140c49196650d47f75e74219de303e48",
+      "bytes": 345061
+    },
+    "micrographs/micrograph490.tif": {
+      "sha256": "6252e56c2b1910f2b95950f34b120ba8d118898eb385328535463b127bfbfef9",
+      "bytes": 345069
+    },
+    "micrographs/micrograph492.tif": {
+      "sha256": "f3377e75b84f21c382cc2d6445807eda7b7570bc1ca842d12d27d801b18cecdd",
+      "bytes": 345061
+    },
+    "micrographs/micrograph493.tif": {
+      "sha256": "c20aeca9ce3d1a7b9b782e67b5bda216206a9d4051ca6f5a3497b1063c2eff1f",
+      "bytes": 345061
+    },
+    "micrographs/micrograph495.tif": {
+      "sha256": "313cfbccd644e13049edd5e8acc1e95d60ca4cb24dff7b5067d6ddaba01902b9",
+      "bytes": 345057
+    },
+    "micrographs/micrograph496.tif": {
+      "sha256": "a516ae42f0526751e4475944e4a83835d8196cb6ca0a0b7c6f9368b57c4f864e",
+      "bytes": 345057
+    },
+    "micrographs/micrograph499.tif": {
+      "sha256": "70ed2a3e5612a998537cc460cb97818b17d6f5037a6c5dbbd59580335d58e241",
+      "bytes": 345065
+    },
+    "micrographs/micrograph5.tif": {
+      "sha256": "b9b2a37b77737324e41a9c54028708dab6be3f5e8811ca5852e92c36e70967af",
+      "bytes": 345069
+    },
+    "micrographs/micrograph500.tif": {
+      "sha256": "6f0543f098caf2693711fbc9837b0b1fc111b5825116ace39d8e4c0291916324",
+      "bytes": 345061
+    },
+    "micrographs/micrograph501.tif": {
+      "sha256": "0c50e23c15ff6a2c0dff303ee8bd10c4db6f17e16300f4f4faacd8a547de42b0",
+      "bytes": 345057
+    },
+    "micrographs/micrograph502.tif": {
+      "sha256": "a1d470904b8069202f7456dff5b45314fab1206995288baf048270cb6973b2ec",
+      "bytes": 345061
+    },
+    "micrographs/micrograph507.tif": {
+      "sha256": "2842526ee0ec74cb75f44ccf38f230b4ff242dc1eebd916f443454948311959a",
+      "bytes": 345057
+    },
+    "micrographs/micrograph51.tif": {
+      "sha256": "1bb04fe15d1f5ef764190340bd8d3fe3877c0bd7a42064c8261dde658b7abef3",
+      "bytes": 345057
+    },
+    "micrographs/micrograph512.tif": {
+      "sha256": "eebb0fd47aa18febbbc8fc4eb62d03d5138a245294d0adac022a8ae4cc04d328",
+      "bytes": 345065
+    },
+    "micrographs/micrograph514.tif": {
+      "sha256": "3a2c4e3aaefc992864f5ce0c97ed839fb16166f9f1ee509808540f83b9a066b9",
+      "bytes": 345065
+    },
+    "micrographs/micrograph515.tif": {
+      "sha256": "4e0243817972f77142336365951e74b88999d435cb02f33c549dbf608a05d754",
+      "bytes": 345065
+    },
+    "micrographs/micrograph517.tif": {
+      "sha256": "982b504cd7d718c867674a2114e9a34f8d9cc02e0639559a65765e3d4dc0636a",
+      "bytes": 345065
+    },
+    "micrographs/micrograph518.tif": {
+      "sha256": "d2cb6726589130eb8e7a755a1fcac837f04561ba3a15a4558f8433c0678dd14f",
+      "bytes": 345061
+    },
+    "micrographs/micrograph52.tif": {
+      "sha256": "2469b93c47c9214fb5de3872cc0bfc0c7a05700bd87444d0685249e3012556b7",
+      "bytes": 345057
+    },
+    "micrographs/micrograph520.tif": {
+      "sha256": "97b8bde6112d0d54610cf9e947e88b88c3c74bec06d33a734ce31ceb9689a60b",
+      "bytes": 345065
+    },
+    "micrographs/micrograph522.tif": {
+      "sha256": "647debab56b9a576bcf34693eb6ff567e300c5f16e3875e9c3dcaf8ed1ed3581",
+      "bytes": 345065
+    },
+    "micrographs/micrograph523.tif": {
+      "sha256": "47e406ebea378a54d676fbbb16d06327874fd5d0f274a5fb2d1fbbd22ee1d491",
+      "bytes": 345061
+    },
+    "micrographs/micrograph524.tif": {
+      "sha256": "af77dab3ce014cd0ecd6f3e5a65d846eb67e50daf432e4b8e022b3618c2d84c4",
+      "bytes": 345065
+    },
+    "micrographs/micrograph528.tif": {
+      "sha256": "fb88222cdf03df140c086e1273f12833aa70bc1c6a2a99878177fb2a28b78c4b",
+      "bytes": 345065
+    },
+    "micrographs/micrograph53.tif": {
+      "sha256": "0730ea57edd74c2a3c37b1ff2b9122f9a73cad0bbd405900ee3841d593e7b10c",
+      "bytes": 345065
+    },
+    "micrographs/micrograph530.tif": {
+      "sha256": "3114cfcb02477d393e02b059808afd136cf2a864d102e1982e6430a9f4284f53",
+      "bytes": 345061
+    },
+    "micrographs/micrograph532.tif": {
+      "sha256": "14c7668df62fd1edf306abe39843fac972f909aaffc9f6f2206c85e3ec658e56",
+      "bytes": 345077
+    },
+    "micrographs/micrograph534.tif": {
+      "sha256": "f60058efa8b6c59af1763b611103cf4eb5097c3c93e37ce29de8da255a32b171",
+      "bytes": 345061
+    },
+    "micrographs/micrograph535.tif": {
+      "sha256": "980ab146a03c3c64f1168dd07c941af74db8b7f9ee7c3e2250fe873d9e91b5d9",
+      "bytes": 345065
+    },
+    "micrographs/micrograph536.png": {
+      "sha256": "6481cadb08f997091170d17e294bfaf412cdfa1afa66d36b08bca9a86ba2bfd1",
+      "bytes": 292092
+    },
+    "micrographs/micrograph537.tif": {
+      "sha256": "6362d4fe323018860f0d9c217a672db25ca6f9d06d8a0a5221182836ed41f094",
+      "bytes": 345057
+    },
+    "micrographs/micrograph541.tif": {
+      "sha256": "c5f759ff68620b4c347fccdf0624ce2d3065f2ffa28749eaf9f19e08ae48f9b1",
+      "bytes": 345061
+    },
+    "micrographs/micrograph543.tif": {
+      "sha256": "45702401e6d35464f51b3860d091fcda7aee55d7b86601d32ab2c15c1b0915ee",
+      "bytes": 345057
+    },
+    "micrographs/micrograph544.tif": {
+      "sha256": "e3708266678faee279e6d0b7cbdac72034af60fadb34904c699de2a17c656b21",
+      "bytes": 345065
+    },
+    "micrographs/micrograph545.tif": {
+      "sha256": "b1b2581a5973a5a3e9fd1138385433bf8aaab3fcdffd9d203f2dba3b7badf1d8",
+      "bytes": 345065
+    },
+    "micrographs/micrograph546.tif": {
+      "sha256": "0992988b56f912059c508be4edcac0e0379939385a1e14e52e173ae1bb49f610",
+      "bytes": 345061
+    },
+    "micrographs/micrograph548.tif": {
+      "sha256": "0abfd8aa6efd08ba0b35f3d1ff5927c11b9d0e6e0b448f976bb9dee5d33db309",
+      "bytes": 345065
+    },
+    "micrographs/micrograph551.tif": {
+      "sha256": "f9214b13598d96ed3cc47dec6bdc0c3c6f0af17a600ce9a6de2829bf0d0b848a",
+      "bytes": 345057
+    },
+    "micrographs/micrograph553.tif": {
+      "sha256": "9ec7b187515d9fab2ca29ba2864b2d6e084b29aa893726276c61061fc014881b",
+      "bytes": 345053
+    },
+    "micrographs/micrograph554.tif": {
+      "sha256": "d3c6ef762563699fe7cc95bcc69ff7f466a14081a8ec4ad7813d48fe2643e1da",
+      "bytes": 345065
+    },
+    "micrographs/micrograph555.tif": {
+      "sha256": "6f76d997610a73b2d6c3a1e9dd5c7ac50ddafd78f83527a8eb93067b9b97ae10",
+      "bytes": 345061
+    },
+    "micrographs/micrograph558.tif": {
+      "sha256": "db6c35293bbb4e5af872469d7cfaa1b0621b30f24e29237a1b279664b8db92ee",
+      "bytes": 345065
+    },
+    "micrographs/micrograph561.tif": {
+      "sha256": "5f1cf8b9d7fa1cfdbf7b4163f5438e222639a4b9c072c19e0860e7eb87fbc156",
+      "bytes": 345057
+    },
+    "micrographs/micrograph565.tif": {
+      "sha256": "6c61f8db945eb10d46009ab39278a61a4214d0468f8ff925c8415256ec3774ce",
+      "bytes": 345065
+    },
+    "micrographs/micrograph566.png": {
+      "sha256": "0cf9b7e2ddb42fc114d010fae04f91fed771b4334733776525438475bc7449a0",
+      "bytes": 302925
+    },
+    "micrographs/micrograph567.tif": {
+      "sha256": "bc3b385fba5b2151583c6bdd9cbd851f276349509137f495520ce96d789b92b6",
+      "bytes": 345061
+    },
+    "micrographs/micrograph568.tif": {
+      "sha256": "e2ce1a2ccd8ce669893702c080d94814333fbfe2169ca8c748f2632835105b28",
+      "bytes": 345061
+    },
+    "micrographs/micrograph569.tif": {
+      "sha256": "a693678633eb441b70576e9d0973201362e21f527ef342a8498998b52c2a59a9",
+      "bytes": 345065
+    },
+    "micrographs/micrograph572.tif": {
+      "sha256": "684466ff5766be451818d36e6fd1e6a6e6049862b22ba890bc3d084c8e812bf6",
+      "bytes": 345057
+    },
+    "micrographs/micrograph573.tif": {
+      "sha256": "50fb558e768c82d7109bfa65da3a01d79a9189b6e3e143f22779ced71f16a2f6",
+      "bytes": 345065
+    },
+    "micrographs/micrograph576.tif": {
+      "sha256": "938782468f8833f784f8eea2e1f8281d340b590f704e0344f52b167154ae0574",
+      "bytes": 345069
+    },
+    "micrographs/micrograph579.tif": {
+      "sha256": "1f45ab9ea4b32971be209b7f638312b5f2a73d3e835f520d3ae107298edcdf52",
+      "bytes": 345057
+    },
+    "micrographs/micrograph58.tif": {
+      "sha256": "0c1c563a0778b5d7bde1cc2fae2d908ec098cfbf6013446444de87d65fc1c137",
+      "bytes": 345069
+    },
+    "micrographs/micrograph584.tif": {
+      "sha256": "3c5584c53dddf7493adcb20db641fb3127f45db1caa1ea645c1247c4b61997e1",
+      "bytes": 345065
+    },
+    "micrographs/micrograph586.tif": {
+      "sha256": "c637c2395e25b75139f42fcd4978ab98e324e11b0c854016ef514d4ebdeae1cc",
+      "bytes": 345057
+    },
+    "micrographs/micrograph589.tif": {
+      "sha256": "953fb541f8f270a68d5e33c8ed09a7f2f7855b7990cff36d7a528bce80ba1c89",
+      "bytes": 345065
+    },
+    "micrographs/micrograph59.tif": {
+      "sha256": "32ec4eb1179ce555cd0a8d53598c5ea8b3366932ea331d9dcb97e05478a148cf",
+      "bytes": 345069
+    },
+    "micrographs/micrograph592.tif": {
+      "sha256": "8dfa68edf30c5af65680a22792233c78e78f357d9e4ec2351370e329ce4cbaff",
+      "bytes": 345057
+    },
+    "micrographs/micrograph594.tif": {
+      "sha256": "8f2569597fc98dbb918e9eba9dbbf53f7eb0cf39cff7988ffb3ec3e233dacbc5",
+      "bytes": 345065
+    },
+    "micrographs/micrograph596.tif": {
+      "sha256": "0747f43c28eb7b64d2658ffb9f2ccbdcbb812cbc0ff72fd769737c1c210d52b7",
+      "bytes": 345061
+    },
+    "micrographs/micrograph597.tif": {
+      "sha256": "a9f14dca1d07c0d8012874d5090071f9419ce6b306bd63f1fde6a45045161fe4",
+      "bytes": 345065
+    },
+    "micrographs/micrograph598.tif": {
+      "sha256": "e201f7ed7f618ace24ecb31a8198948f895f8244597794cbab78d2b67500fc16",
+      "bytes": 345069
+    },
+    "micrographs/micrograph599.tif": {
+      "sha256": "a41a0cb7ad2a23db79fe105c30a69cb4336e1c87111edda500f1b8092738e48d",
+      "bytes": 345069
+    },
+    "micrographs/micrograph6.tif": {
+      "sha256": "5f649f610c5093f77dfcd4711d2f003fb953240d5d6990704d2a15bc6843eec2",
+      "bytes": 345065
+    },
+    "micrographs/micrograph60.tif": {
+      "sha256": "9e9c23204f6543638b10847e76edf867d132870a523e5106004efc97236aac77",
+      "bytes": 345069
+    },
+    "micrographs/micrograph601.tif": {
+      "sha256": "4cf03d03ec49a6c9afb7888a0f58b848af66ef430360435e47bcf726dca0e9db",
+      "bytes": 345061
+    },
+    "micrographs/micrograph602.tif": {
+      "sha256": "eb72db72b7fbf9814cba1735295173ca1c1a8634175a0eaeb50f37a6ad6be05f",
+      "bytes": 345057
+    },
+    "micrographs/micrograph604.tif": {
+      "sha256": "6f4e7dc369731d1915b3a30ea92c84e5113889a3300256203f463971e1ed34f3",
+      "bytes": 345077
+    },
+    "micrographs/micrograph607.tif": {
+      "sha256": "fa18f7b9d7491b100e5a0bedb6f8a14d045c021337822e7064da3c78daadc355",
+      "bytes": 345057
+    },
+    "micrographs/micrograph608.tif": {
+      "sha256": "51eaee9d40e9cfec989aecd260b3e07675123432d715e4d071cca5f73dec485e",
+      "bytes": 345061
+    },
+    "micrographs/micrograph609.tif": {
+      "sha256": "a32508a8da7cdb1a6c18d2cd1c10c06abbb18c8018a3928c82d99441737c3301",
+      "bytes": 345069
+    },
+    "micrographs/micrograph610.tif": {
+      "sha256": "5da03382d27c7f4e2f2a91296a34ef5a39901373a080e2323720cffeee2b3e73",
+      "bytes": 345073
+    },
+    "micrographs/micrograph611.tif": {
+      "sha256": "ec0097e28b0c78d0d817dd018d98aa3ff3231da47110ee52e53189c90b53fb7c",
+      "bytes": 345061
+    },
+    "micrographs/micrograph615.tif": {
+      "sha256": "7517f5fc06488f06f96696146f5bfc1acd778bc3479fe1b0689c84422676b8a9",
+      "bytes": 345065
+    },
+    "micrographs/micrograph616.tif": {
+      "sha256": "a10a4e1f73a951563fcbff3233d1fed6c903c4fd0f5a63af5fa562b67c3fafbc",
+      "bytes": 345061
+    },
+    "micrographs/micrograph62.tif": {
+      "sha256": "36df613da2133896f3134408abae9c6a7962e932d7c30bc7e9356dc912d75ebf",
+      "bytes": 345053
+    },
+    "micrographs/micrograph625.tif": {
+      "sha256": "297295f6a66bd11740fb432861ec1661a64bac8171a75499b9f20cfd997f5004",
+      "bytes": 345061
+    },
+    "micrographs/micrograph626.tif": {
+      "sha256": "74794d33fe940a765636386ec5175189d2bd105cbf02bf30e207d26293071602",
+      "bytes": 345069
+    },
+    "micrographs/micrograph628.tif": {
+      "sha256": "a518f1d3a0852b71a445bd253aa43a67ee52a7878de65a5a35a060d70b1ee038",
+      "bytes": 345069
+    },
+    "micrographs/micrograph632.tif": {
+      "sha256": "21c6308464401605a28e41556e6587260992d0d102ddee838f8d3d8e68d94fff",
+      "bytes": 345069
+    },
+    "micrographs/micrograph633.tif": {
+      "sha256": "31b324641227cfe197f2109f179116bee0806c2c1f92cb398cce15731deefebf",
+      "bytes": 345065
+    },
+    "micrographs/micrograph637.tif": {
+      "sha256": "73aadf8426416b1e528d407d7e0210fa07ce1cca7e656a23e105bf65bca244e5",
+      "bytes": 345053
+    },
+    "micrographs/micrograph639.tif": {
+      "sha256": "2796fed52aa87b87d016f6ce8077f54ae8406c76c0ff768c223e1213295aa44b",
+      "bytes": 345065
+    },
+    "micrographs/micrograph640.tif": {
+      "sha256": "0d8dcde908540ad1346dd8704e6780b00da939f4114201b3840677be00240fb0",
+      "bytes": 345065
+    },
+    "micrographs/micrograph641.tif": {
+      "sha256": "98473b4b0f184813f64589b24377ae771d006356d126173d67edeffa68b401d9",
+      "bytes": 345069
+    },
+    "micrographs/micrograph642.tif": {
+      "sha256": "57d014594c9417d1dc880619820e711fbcf133ced4ca66c247ce215dc4a5b7dd",
+      "bytes": 345069
+    },
+    "micrographs/micrograph643.tif": {
+      "sha256": "bb904ae015184d6d6ebd28b0cf985af8c78ee53b279ffdaa42d88e7f07a12556",
+      "bytes": 345065
+    },
+    "micrographs/micrograph644.tif": {
+      "sha256": "8e125b6cc73bd97f9009f41c0a3477748cc06ff6505ad38158deea3029c324dc",
+      "bytes": 345053
+    },
+    "micrographs/micrograph646.tif": {
+      "sha256": "96098dcfe8d146a0f04b3499948da99c4543fc29d0531e4634df8f747fabee56",
+      "bytes": 345065
+    },
+    "micrographs/micrograph648.tif": {
+      "sha256": "876484f1f88ddc72b90811463b1077a32f30dad3a337cb1acbd209f9b074fdca",
+      "bytes": 345057
+    },
+    "micrographs/micrograph649.tif": {
+      "sha256": "2c939dd41b42d27960e291e26330141e61f94e440bcf2fe0f3512e4a957b236b",
+      "bytes": 345069
+    },
+    "micrographs/micrograph65.tif": {
+      "sha256": "7786773b51dd6d75aca4aabeeae7ba52bca524ef38df7351816b8216e9aae69c",
+      "bytes": 345065
+    },
+    "micrographs/micrograph650.tif": {
+      "sha256": "9261d51b4b0bbe6ea3f6218c1d57fad9fea0ddf8ff7fe0850ed8e6f9f115cbcd",
+      "bytes": 345061
+    },
+    "micrographs/micrograph652.tif": {
+      "sha256": "3e3e5aa813f5cb6f7ec42d2a06531f36a274351639d936ca6d6e9c5e2ee629c4",
+      "bytes": 345057
+    },
+    "micrographs/micrograph655.tif": {
+      "sha256": "30be68e61203c8d327f85e567e3bf49669a9328479fc94ec6e44456b01b243b5",
+      "bytes": 345061
+    },
+    "micrographs/micrograph656.tif": {
+      "sha256": "4d9bd7ca463a287ca821cf5defb40ec337fc93eb062c9c90e2e310e1783e305c",
+      "bytes": 345061
+    },
+    "micrographs/micrograph659.tif": {
+      "sha256": "3c31084df8d104cc09eb14d3c2f35460eb0067d00f9763614c9172c77b863497",
+      "bytes": 345057
+    },
+    "micrographs/micrograph660.tif": {
+      "sha256": "643dd1abd4e1a8804be441085eda3ffb114653b6eef584561735bf4ef8065a83",
+      "bytes": 345065
+    },
+    "micrographs/micrograph664.tif": {
+      "sha256": "f80c081d6414824b34966944de79dd5d83631297eab0ae73aa767c1c168eb7b4",
+      "bytes": 345065
+    },
+    "micrographs/micrograph67.tif": {
+      "sha256": "337898ff614909168712072ce6432e749f576aacea0fdb743930b08692ef2ece",
+      "bytes": 345057
+    },
+    "micrographs/micrograph670.tif": {
+      "sha256": "255c61e641d13e7085f9e7290e03009c66ebf07e0b85580c9bdd270d05b27fc0",
+      "bytes": 345061
+    },
+    "micrographs/micrograph671.tif": {
+      "sha256": "ba755f5d63fef5bad5262a5e7b0d6fc8ce389b535f4d5a0817fc6757318eb0bb",
+      "bytes": 345057
+    },
+    "micrographs/micrograph672.tif": {
+      "sha256": "160551d17399a85ed832b8538501f918ef92cf86a927bac0c15e0ea5feee7595",
+      "bytes": 345057
+    },
+    "micrographs/micrograph676.tif": {
+      "sha256": "36d3bcbdfff9299ca2c4a065853d85027beda81a9b8bd00ac0a0b40f1cb74206",
+      "bytes": 345057
+    },
+    "micrographs/micrograph677.tif": {
+      "sha256": "7d345b837f82861a4d39298f6cdd7fb0d9a89fd5cb2859b9258b5a34f50c79b7",
+      "bytes": 345069
+    },
+    "micrographs/micrograph678.tif": {
+      "sha256": "7a3bad2cfcc05673f26ca28a9dafabe73ff6daa4f881c11f5adde3c9b8c06ec6",
+      "bytes": 345065
+    },
+    "micrographs/micrograph679.tif": {
+      "sha256": "d5d37d5d27490050d1ff0302d91c56622bf8dcc01eb5c2807d55594dfa774fc1",
+      "bytes": 345069
+    },
+    "micrographs/micrograph68.tif": {
+      "sha256": "048e0661b123dc66619e3d34854f98e8698b5952685cef7d9f6af1ece46057b2",
+      "bytes": 345065
+    },
+    "micrographs/micrograph681.png": {
+      "sha256": "0b320addc3a7893eff6bf634a0ffe3aa5f8520fc10939de3a0315b402218f9ca",
+      "bytes": 303595
+    },
+    "micrographs/micrograph682.tif": {
+      "sha256": "9797895c2e4890c134ec2d00a8580766022730bfc0406fdea5da32e948891364",
+      "bytes": 345065
+    },
+    "micrographs/micrograph683.tif": {
+      "sha256": "e421304ab8b0f869eb26995b002e815b1835ca2a848318a676b3cd5e165fdf15",
+      "bytes": 345061
+    },
+    "micrographs/micrograph684.tif": {
+      "sha256": "9ed97e021149a1692b0bf312035e84136f929cb6087c6e647d6e380d9e344824",
+      "bytes": 345065
+    },
+    "micrographs/micrograph685.tif": {
+      "sha256": "d542fa0e42f5755ca1398b7c546ef50ff2a26125e98692a78714578635cf81ff",
+      "bytes": 345061
+    },
+    "micrographs/micrograph687.tif": {
+      "sha256": "2cf51b18ba2df86e970d3acb3098ba24850962f1a1d19a4cb3fe95e7d7713ce5",
+      "bytes": 345061
+    },
+    "micrographs/micrograph689.png": {
+      "sha256": "b0ce3b8fb0cbf2084b674aabd1400507fb76d720924fb7e1960e84c32ac09d17",
+      "bytes": 296968
+    },
+    "micrographs/micrograph69.tif": {
+      "sha256": "add5a9aabd636abe449221e4faf86d1a68faef10a29e630256f2f12171b47448",
+      "bytes": 345069
+    },
+    "micrographs/micrograph690.tif": {
+      "sha256": "4720d6b851c60f74a7715a43ef704a60f6be10b898b3f2359c8163f38caff403",
+      "bytes": 345057
+    },
+    "micrographs/micrograph691.tif": {
+      "sha256": "9fb2478f5398fc81c08a38af22d6edf95e1a0f245aae520afd3d25ab4fe7d40a",
+      "bytes": 345065
+    },
+    "micrographs/micrograph694.tif": {
+      "sha256": "1d004f90044a07d3d3d6e2232ac783d44b57351ff23a8b076694f93f54d10c4e",
+      "bytes": 345061
+    },
+    "micrographs/micrograph699.tif": {
+      "sha256": "405b6cf51c49cd18ee64043800c256934cc868cfd88e3515f98f4dbe72ca1dc1",
+      "bytes": 345069
+    },
+    "micrographs/micrograph7.tif": {
+      "sha256": "338558aa94a516408fdc964b22225639de775f547e94488ccdf89346c3bfbc02",
+      "bytes": 345069
+    },
+    "micrographs/micrograph70.tif": {
+      "sha256": "5dba5a99adbc000710996ae65dc3d459897896d32542fbb6e4162b963220c2ff",
+      "bytes": 345057
+    },
+    "micrographs/micrograph702.tif": {
+      "sha256": "5081b3a8d522f2d01bd64934006f25a0e86893091c3408ff75baa0331485c63c",
+      "bytes": 345061
+    },
+    "micrographs/micrograph704.tif": {
+      "sha256": "3465066bdfb4e3018b2acd74a4ba60f68c87415ef58025c342e3db0e30ce3f1e",
+      "bytes": 345065
+    },
+    "micrographs/micrograph705.tif": {
+      "sha256": "e3b738ed7f649432119b172e92076ca5b43ad449c6893b7844c4dce3c91d09e4",
+      "bytes": 345061
+    },
+    "micrographs/micrograph706.tif": {
+      "sha256": "65bba260f73bd427186cb3a5cecfd6fd8cd0f1222483fbc24d68af6a20383b1f",
+      "bytes": 345053
+    },
+    "micrographs/micrograph707.tif": {
+      "sha256": "b35e8502aff86ddb3908dd3f78a16102f69ebf8de4c5043d507c464cf001e81b",
+      "bytes": 345065
+    },
+    "micrographs/micrograph708.tif": {
+      "sha256": "104b8d643a774f147d3bee97003ac1285822e2331bc0ceb14f8e8dae2526896b",
+      "bytes": 345069
+    },
+    "micrographs/micrograph71.tif": {
+      "sha256": "89fe2650b2d7ad51d7217ed5382686fdcbc0ac426d3ff8f74e2f3e84553d905e",
+      "bytes": 345077
+    },
+    "micrographs/micrograph710.tif": {
+      "sha256": "af8c92e7c3d1d8b10e4fc60284a569af0a2d6cd514043a9be5879991a9a1d2b0",
+      "bytes": 345065
+    },
+    "micrographs/micrograph714.tif": {
+      "sha256": "ae77846766c2dbebd9954a675badf6c13d3cb4961eeba2b5cd374603758723e7",
+      "bytes": 345069
+    },
+    "micrographs/micrograph716.tif": {
+      "sha256": "7aff6bd0055cf413ce7fb07c1442c60a60b4482d963af5e77a748570232995bf",
+      "bytes": 345057
+    },
+    "micrographs/micrograph717.tif": {
+      "sha256": "70fe34f8f45ae92d8c4e12b620ddebc5820b98129420cf41b210eb3917e19051",
+      "bytes": 345061
+    },
+    "micrographs/micrograph718.tif": {
+      "sha256": "f4b920a7309416a87a9b1c62db71b3845f60c30137e617ee4d3de9b58998e063",
+      "bytes": 345065
+    },
+    "micrographs/micrograph72.tif": {
+      "sha256": "82e8a5b954183a43447e8d64bc14e6c4a3f52e628c60cae4371ba89747465441",
+      "bytes": 345065
+    },
+    "micrographs/micrograph721.tif": {
+      "sha256": "24480d1a637e7e735ec83382f105347286d467bd0398873720449924bbcfe869",
+      "bytes": 345065
+    },
+    "micrographs/micrograph725.tif": {
+      "sha256": "49c9003f7792bf10251377030e9b8f9066492c99d59c72eb94acd82eba91765c",
+      "bytes": 345057
+    },
+    "micrographs/micrograph727.tif": {
+      "sha256": "f521258fc1a49eb6bd68f081b04e02110fa0bbb8a278092f5b08bcead5c3b2c4",
+      "bytes": 345077
+    },
+    "micrographs/micrograph728.tif": {
+      "sha256": "e1055fe63f1afaa44b172ae8471269b4fddf9c96568d8776d329755c0a7a2622",
+      "bytes": 345065
+    },
+    "micrographs/micrograph732.tif": {
+      "sha256": "881855a793821b2872080fd88f49350a5be8e2f2237cb12c56e21ad073ec2ba3",
+      "bytes": 345073
+    },
+    "micrographs/micrograph734.tif": {
+      "sha256": "2d4deba54508432f2fdc998f73c6e550ab3583403032e8a5b371d566e612502a",
+      "bytes": 345053
+    },
+    "micrographs/micrograph736.tif": {
+      "sha256": "88aa11296394b32f5f5225bb46c1ada100468c59a704c08b21f1b46faa27eaf6",
+      "bytes": 345061
+    },
+    "micrographs/micrograph737.tif": {
+      "sha256": "64747ebe85f00ce32a5c425730752952bd8d3edd9cfc9ee3111fa2f021a8901d",
+      "bytes": 345053
+    },
+    "micrographs/micrograph738.tif": {
+      "sha256": "3d8dcf7672ad6d2df8d2af5e2e39202b87e77ac66c6c94faf0745ca62957a4f3",
+      "bytes": 345065
+    },
+    "micrographs/micrograph74.tif": {
+      "sha256": "290db67c9be66768b561ace74f609733c349a9740959791a6dae8dfd31359c8a",
+      "bytes": 345077
+    },
+    "micrographs/micrograph741.tif": {
+      "sha256": "0fee13a344c8fe17f2a8098fc293ad2b036dc3095893606256bfb78480701b1e",
+      "bytes": 345069
+    },
+    "micrographs/micrograph742.tif": {
+      "sha256": "3871c26dde3d871e0fa6da2840af202b63f5de2f45e2eedd39872f7aadc23c5c",
+      "bytes": 345077
+    },
+    "micrographs/micrograph744.tif": {
+      "sha256": "fbe3bfc1d336d6d89606af9717b01d11aa9a73c9eb75451357ffc214b7869fe1",
+      "bytes": 345061
+    },
+    "micrographs/micrograph745.tif": {
+      "sha256": "d6de009c5b51937357e3ad4189e8a092b73e12941aa55ec524fe38437c4d705c",
+      "bytes": 345065
+    },
+    "micrographs/micrograph746.tif": {
+      "sha256": "31359d5e896d2f9ef093dea373216a655d2b44d4562093580425d63d46d5a09b",
+      "bytes": 345069
+    },
+    "micrographs/micrograph747.tif": {
+      "sha256": "d0af14a3102ecd1417207556899805ca11278c6200e2f01a320121c16c84e2a9",
+      "bytes": 345065
+    },
+    "micrographs/micrograph749.tif": {
+      "sha256": "8886788b0deab6cbc5b379ac594cfc3bcab3905a7f57b7630da2a111a92f9c58",
+      "bytes": 345069
+    },
+    "micrographs/micrograph75.tif": {
+      "sha256": "e2371321a6ad6615dc5e4f371682a285c1ad6ff7cb0849434822240bc4e4fc8f",
+      "bytes": 345057
+    },
+    "micrographs/micrograph753.tif": {
+      "sha256": "f8de5ac36ae6ae6410efca41b7485973eccf1e739adbdc4c3153c27cd6849706",
+      "bytes": 345053
+    },
+    "micrographs/micrograph755.tif": {
+      "sha256": "32ab60356ca8ec8f5b60267f1ca4ac44339c75a07918700eb5d1c123a647d15e",
+      "bytes": 345057
+    },
+    "micrographs/micrograph756.tif": {
+      "sha256": "60707097faa5e8961272aa7d81a4c93ee568e1e01f4a58ace97d364267c5f8e2",
+      "bytes": 345065
+    },
+    "micrographs/micrograph757.tif": {
+      "sha256": "20aadb8e25dd6e63effe5d2ebf7b1b77d39cba442a764e29f707d9c468c2c256",
+      "bytes": 345061
+    },
+    "micrographs/micrograph758.tif": {
+      "sha256": "5dba3e00e95dd77118a28a84ffaf2474431666c07e26cd0376479f22ab06ea18",
+      "bytes": 345053
+    },
+    "micrographs/micrograph76.tif": {
+      "sha256": "e5950ba352461d99331dcd85cb04c86042e143947e1290dceb6f27138d65001f",
+      "bytes": 345065
+    },
+    "micrographs/micrograph762.tif": {
+      "sha256": "220fff0eb2abd19c2107d1f33fb61a9a42f566712e80d59baba61964868377b7",
+      "bytes": 345065
+    },
+    "micrographs/micrograph764.tif": {
+      "sha256": "f3c219a9a91a5811e33db2c33eaef9ec12a81d884feac09d8b662afa1f8280e2",
+      "bytes": 345069
+    },
+    "micrographs/micrograph765.tif": {
+      "sha256": "114d2395191e98d748ed0c1a462857010bb46c2c90704be9b1a7c98d8baf1090",
+      "bytes": 345061
+    },
+    "micrographs/micrograph768.tif": {
+      "sha256": "a2691882b847df2910c13062bfa7e9c1220df8356463a2f178a73b7837c99c4d",
+      "bytes": 345057
+    },
+    "micrographs/micrograph771.tif": {
+      "sha256": "b56a3914803cd35df508c32ee477be65d9a26f84da1fef761f515feba4ea9f3b",
+      "bytes": 345053
+    },
+    "micrographs/micrograph772.tif": {
+      "sha256": "98d0ae6da2d8d08ee2c4c0c9df2ae43837740ec50c65b5da68e60edf08d55550",
+      "bytes": 345065
+    },
+    "micrographs/micrograph773.tif": {
+      "sha256": "731efee5dda0b59cc6d094aa35679b549c7f7471a107e59ccadcf872ae6f0e4b",
+      "bytes": 345061
+    },
+    "micrographs/micrograph775.tif": {
+      "sha256": "c29837dfc238f728a85d26375636fc4e798748ca1d50d5948c9ee009dc72f47e",
+      "bytes": 345061
+    },
+    "micrographs/micrograph776.tif": {
+      "sha256": "f323b3696da764bc2b65e8f1b950a5f2b293a3cccd0c75de628029b8663a5aa4",
+      "bytes": 345065
+    },
+    "micrographs/micrograph779.tif": {
+      "sha256": "4ab1e9b9f4355e9996e3b6569d7a5d88b84168180f4080f2c06ef08e892cb711",
+      "bytes": 345065
+    },
+    "micrographs/micrograph784.tif": {
+      "sha256": "50783f359683c041ad11e95744fca7576c280b01e9957b0ee5895c4a2919d385",
+      "bytes": 345057
+    },
+    "micrographs/micrograph785.tif": {
+      "sha256": "790ad1912e46697e648635ee46f3d87d8a204afe5ae4a0163dbf0ac490bd9279",
+      "bytes": 345073
+    },
+    "micrographs/micrograph791.tif": {
+      "sha256": "59f7ebc6839c574cb969c849c5c8a9972df683e746cd9705147504f2742cac07",
+      "bytes": 345057
+    },
+    "micrographs/micrograph795.tif": {
+      "sha256": "1f867f5c791736dde8b62deadb5a012c8bda2f8e692e9be397de7cf47d4200cc",
+      "bytes": 345073
+    },
+    "micrographs/micrograph796.tif": {
+      "sha256": "68efb3b411002ff5731e7b8907eeeb6342dffdbb6eb4db1b95bad16d36a85e7a",
+      "bytes": 345065
+    },
+    "micrographs/micrograph798.tif": {
+      "sha256": "b0d4335347a8e2dd4bb746c076e01dcc9972c93922165b5a711104d886b16234",
+      "bytes": 345065
+    },
+    "micrographs/micrograph799.tif": {
+      "sha256": "9549f8c2248de2c817280cd9822257c2cc667a04ee1b85ed7eb8828897ba3dd1",
+      "bytes": 345061
+    },
+    "micrographs/micrograph8.tif": {
+      "sha256": "d094fc49a4757b946692953c928af1734e98cff906945686190422166e8a2b0b",
+      "bytes": 345069
+    },
+    "micrographs/micrograph80.tif": {
+      "sha256": "ea77c357cf54bcf2f06b92f98a43a8148cb6a21f22e971869caf0710d30c8af8",
+      "bytes": 345061
+    },
+    "micrographs/micrograph803.tif": {
+      "sha256": "df0c097e60c43e61e30500d6530926562df303558c0b9b096951b8a58bef941c",
+      "bytes": 345061
+    },
+    "micrographs/micrograph805.tif": {
+      "sha256": "686cbaa0b0ff3d3663aee77ae1e792059a3803e29ef9da3b3a80fbf99d790c3a",
+      "bytes": 345061
+    },
+    "micrographs/micrograph806.tif": {
+      "sha256": "03ad63c6e95848c1aeaa165821ff9ad1700fef3ff0b294d5f1f611f432c1690f",
+      "bytes": 345073
+    },
+    "micrographs/micrograph807.tif": {
+      "sha256": "a09db3dee866f0ed802523c0aa01999f665cafa57cd94acd8b81884ec3484126",
+      "bytes": 345057
+    },
+    "micrographs/micrograph808.tif": {
+      "sha256": "f7925a026529533d6758121750e1268acdd4049e585ed41573bd8db6e38ae9ae",
+      "bytes": 345053
+    },
+    "micrographs/micrograph811.tif": {
+      "sha256": "a55ed476c07acc4553dc308d8688172e75277daa5995016574854e343a65161d",
+      "bytes": 345065
+    },
+    "micrographs/micrograph813.tif": {
+      "sha256": "083cbb8cff8a784b3bf58b787289e7de899583a278252edacfa28eb705a98e89",
+      "bytes": 345073
+    },
+    "micrographs/micrograph814.tif": {
+      "sha256": "d82af2c9ebd66c3b714619c9c067f5fce930aba7fae43abef49ba9e11e2090fa",
+      "bytes": 345065
+    },
+    "micrographs/micrograph815.tif": {
+      "sha256": "2d67a0c0651c9c02c8c20d0c036035166146c237c22b4fd5dd1135e4a8c51a37",
+      "bytes": 345057
+    },
+    "micrographs/micrograph816.tif": {
+      "sha256": "c9e9ed37a2c4cc28160edca9baba473222d93e1f60dabfafc14c513f6216f0da",
+      "bytes": 345069
+    },
+    "micrographs/micrograph82.tif": {
+      "sha256": "d6c84f37e8e0480cdc04c5b3fc0d5050f3f03fe03a561528455d1d38871aa3e2",
+      "bytes": 345065
+    },
+    "micrographs/micrograph820.tif": {
+      "sha256": "e93dcde5b71dc2cc0302204916269ea69714310a1891dc7c71d4035043ef6664",
+      "bytes": 345065
+    },
+    "micrographs/micrograph821.tif": {
+      "sha256": "278f541afceef67262d8743574cfe90a5fcd7badf848a4b45e393781dc9d61f4",
+      "bytes": 345065
+    },
+    "micrographs/micrograph825.tif": {
+      "sha256": "7ee8a4ef887b001eab531e9fe276d33aa791ea347db81df35768b4af1130886e",
+      "bytes": 345061
+    },
+    "micrographs/micrograph828.tif": {
+      "sha256": "7aca86fc2421f052039d4bfbcd629d19d98aafde584b3030e7d14c7a16051872",
+      "bytes": 345065
+    },
+    "micrographs/micrograph831.tif": {
+      "sha256": "b7567a1ce10ddfdedfb0c2b5ad38f632e16aeeffc2cf8619ca8bcb1df453f8c8",
+      "bytes": 345065
+    },
+    "micrographs/micrograph832.tif": {
+      "sha256": "d1361ce438b8f4d7b519a09c6af2832194c042ee3d23baa0a8908f454555c800",
+      "bytes": 345069
+    },
+    "micrographs/micrograph833.tif": {
+      "sha256": "16609fd790c842bbecf196f6665ae3a00138666da10bfa274759c3c784c8c59f",
+      "bytes": 345057
+    },
+    "micrographs/micrograph835.tif": {
+      "sha256": "aca9f1f370b2c92138e089530b606f7c4773da9d0658a88d6805aa17228cc3c7",
+      "bytes": 345053
+    },
+    "micrographs/micrograph836.tif": {
+      "sha256": "b2237db53ad478c27054c38db5bf3eeed4283bfdc3b1895ee044c572d00e9537",
+      "bytes": 345057
+    },
+    "micrographs/micrograph841.tif": {
+      "sha256": "6f054d6c5b550e254905d91561df6fee9e6c3538dcc4f7d3eaccb6eb3d5abecf",
+      "bytes": 345061
+    },
+    "micrographs/micrograph843.tif": {
+      "sha256": "910a0e3c620c8620158799e81b5b5595400f96acef5dfddd7fe29349887f1746",
+      "bytes": 345057
+    },
+    "micrographs/micrograph844.tif": {
+      "sha256": "2492d5acf2eda8889aade4f6c4abb770fa2d37650c8c8417d402271991bef2cc",
+      "bytes": 345061
+    },
+    "micrographs/micrograph845.tif": {
+      "sha256": "d8d1bec6e4e995a3b7ab900d6ea14024ad0170f6d6988fa855f3a1acc7117386",
+      "bytes": 345057
+    },
+    "micrographs/micrograph847.tif": {
+      "sha256": "351dec36e897ecaf2011a1fea2ddf02f7c9800c9d50acd2b803c71cf2ba95fc6",
+      "bytes": 345069
+    },
+    "micrographs/micrograph850.tif": {
+      "sha256": "afc1a89d843c23ef7efada18175b6d373db5eb0a2f71b706cbdbe3c84e2961cf",
+      "bytes": 345069
+    },
+    "micrographs/micrograph852.tif": {
+      "sha256": "2e129695cf90c498abfa05ceafb2c454cff0d4e5ef20db2f1ef5e43d690ba6b4",
+      "bytes": 345061
+    },
+    "micrographs/micrograph854.tif": {
+      "sha256": "7adacd3f93815ab6eeaa58b52d432d122be832d728db444b9fa02643e3b2d9e3",
+      "bytes": 345065
+    },
+    "micrographs/micrograph855.tif": {
+      "sha256": "d0dc386118bb41d3f826fc1098072ccd44a44df343828d3b02a6b3148e3f5226",
+      "bytes": 345057
+    },
+    "micrographs/micrograph857.tif": {
+      "sha256": "4770e98ba9eff79518b668d19e1b71ea0a6522309b4456ed45005a7316e8f29c",
+      "bytes": 345057
+    },
+    "micrographs/micrograph858.tif": {
+      "sha256": "b2151b54201b988e3d18cd709961c4db2916ddb02719ce3b3795e1441488350a",
+      "bytes": 345065
+    },
+    "micrographs/micrograph859.tif": {
+      "sha256": "9a569c8746712557560bb1967fff0663d86de92f0de8f47e38676efdc501932c",
+      "bytes": 345065
+    },
+    "micrographs/micrograph86.tif": {
+      "sha256": "9dbe97904626579eec7b3696a7cd00b98de66a7daf76d16adbe14ddec2aef9ed",
+      "bytes": 345061
+    },
+    "micrographs/micrograph861.tif": {
+      "sha256": "29f305beb1c6b67f4fd02e3f54773f35f45a425d1f94735346c8770c9c1f6c3e",
+      "bytes": 345057
+    },
+    "micrographs/micrograph862.tif": {
+      "sha256": "e799ea99ec7438e595b4abe0853dab5dc3c8c9ac7ec3478130ff199b2b18db40",
+      "bytes": 345057
+    },
+    "micrographs/micrograph864.tif": {
+      "sha256": "51ca839256d73177a94edd3f445cb23f763e2bf70bf90ff4e0192fedd727227c",
+      "bytes": 345069
+    },
+    "micrographs/micrograph865.tif": {
+      "sha256": "dd0c26d909f549055e086ffbd572b0d9a22f1b06e86d10765830cef6a767749a",
+      "bytes": 345069
+    },
+    "micrographs/micrograph866.tif": {
+      "sha256": "779c37c63ec6e895f7e70cfca7c09ea781d0a058bb5c13a10769b008bd003afc",
+      "bytes": 345061
+    },
+    "micrographs/micrograph867.tif": {
+      "sha256": "13eea275a3ae5cf270e75ef70976975695ddce9621b65244bcd831c604ffed42",
+      "bytes": 345057
+    },
+    "micrographs/micrograph871.tif": {
+      "sha256": "0f4711e002e533f833aa1d67f7be5d8133ff6fc580e2f0e6354dac56d0933159",
+      "bytes": 345065
+    },
+    "micrographs/micrograph873.tif": {
+      "sha256": "6488a509ddc0175ade7b656922cc87ff774bb76cc09cd9ea4c0f6852111b3c19",
+      "bytes": 345069
+    },
+    "micrographs/micrograph875.tif": {
+      "sha256": "6867d0525d5d232b34a705946879a35389ac289c3cea122d45447fce479798fd",
+      "bytes": 345057
+    },
+    "micrographs/micrograph877.tif": {
+      "sha256": "c8b518d8094d1e250482acc6628a8b5820fb98251c19cc09743347ff5bcab22c",
+      "bytes": 345061
+    },
+    "micrographs/micrograph88.tif": {
+      "sha256": "f40a10bad43a1ca12c9fa2cfe34858e045232735de0d104d0fe27e40a7ac7751",
+      "bytes": 345061
+    },
+    "micrographs/micrograph880.tif": {
+      "sha256": "70873376649b4a32320ec29a1fe093033ec9e8ac0c680460f0c4564762a9e030",
+      "bytes": 345065
+    },
+    "micrographs/micrograph881.tif": {
+      "sha256": "a1ea244480f05fbff3671c0fdef3b48c87ad9b7f75cb5ceb818f625db27bdf3c",
+      "bytes": 345065
+    },
+    "micrographs/micrograph882.tif": {
+      "sha256": "4cd4e742f210f799f20b0366e4bf9ceed42a4c9c4cd8c17ce3030eb3528fe2a3",
+      "bytes": 345057
+    },
+    "micrographs/micrograph883.tif": {
+      "sha256": "e5e9b90224d7a121babaf8c64fca6256ea025ce6e544a2cfec4ba7874dd40bac",
+      "bytes": 345057
+    },
+    "micrographs/micrograph884.tif": {
+      "sha256": "c875ba80cf936fe48a6d03323570762e43c4d043b26ec3fc2e92de1bbc9bebef",
+      "bytes": 345073
+    },
+    "micrographs/micrograph885.tif": {
+      "sha256": "e0e09a35ef2d3d94e97e243e9f9f9816970ab8b0eaed2c5dd9de095ea616f346",
+      "bytes": 345065
+    },
+    "micrographs/micrograph887.tif": {
+      "sha256": "e5b62ea93d51fb8d610be7fda1c2267fc0da55d483743ac287b6f3f1538535e1",
+      "bytes": 345065
+    },
+    "micrographs/micrograph888.tif": {
+      "sha256": "b46f9b66dc0649da848289ddd5565392c9e6b691c80ebb151da4cb3a8831d606",
+      "bytes": 345069
+    },
+    "micrographs/micrograph889.tif": {
+      "sha256": "d672cd336a83235c66509ea88ef5e56618fe3b699c0c665dc87f9d284a2ae9ca",
+      "bytes": 345065
+    },
+    "micrographs/micrograph89.tif": {
+      "sha256": "18e5fd70860fdfb13e13c45fc89e4e5e2e230665c3a0d11feb607e0b56c01e58",
+      "bytes": 345057
+    },
+    "micrographs/micrograph890.tif": {
+      "sha256": "1f5cfcbf6a39b84d95e6f3f7c2a0a5847d0ac4bf178cb1b5b507ea6f8dc2c583",
+      "bytes": 345057
+    },
+    "micrographs/micrograph891.tif": {
+      "sha256": "7199244e72003c6916c49709b2546158bb005ba764a45a57112f517eb6d2dd1d",
+      "bytes": 345057
+    },
+    "micrographs/micrograph893.tif": {
+      "sha256": "bcb84da135b91234e7d77454abec9c106e0e1dffd204642a065c28603b3d538a",
+      "bytes": 345069
+    },
+    "micrographs/micrograph894.tif": {
+      "sha256": "4e905548380469018f966504cce4adea2d99361fb39d87a1f05e43ad389466e0",
+      "bytes": 345069
+    },
+    "micrographs/micrograph896.tif": {
+      "sha256": "c314c96f8a7a5259adbf39f78b43c26c170dbbe2d244106e9225f1db60c11d74",
+      "bytes": 345061
+    },
+    "micrographs/micrograph897.tif": {
+      "sha256": "28a25d69141efe99285ef56ede12d3a20afb9ad491265ebc7320fd6352fcf35e",
+      "bytes": 345065
+    },
+    "micrographs/micrograph9.tif": {
+      "sha256": "1e8c4e9a675e9dd90ec7a0b11b2a618b9851fa406d95e3f5f75f066b8879e5a4",
+      "bytes": 345069
+    },
+    "micrographs/micrograph90.tif": {
+      "sha256": "0b378103314519536893fd39dd8c02771b93c5279eae955e281c21d74bbfab99",
+      "bytes": 345061
+    },
+    "micrographs/micrograph905.tif": {
+      "sha256": "5338e1b5bf4e4d3933eb17d6a92bac8e85da64c6f5aa555b83c8c977ebdd6a54",
+      "bytes": 345061
+    },
+    "micrographs/micrograph906.tif": {
+      "sha256": "551b008ea781af5e143a3cf50ff7e5eafbe2849aacf274bf9f01045448de91af",
+      "bytes": 345057
+    },
+    "micrographs/micrograph907.tif": {
+      "sha256": "b18afd7259c1526ce0ec6bf94a02bc0554f26e254e84e272236a8c8701778dff",
+      "bytes": 345065
+    },
+    "micrographs/micrograph908.tif": {
+      "sha256": "269f66d9d5857fe6e7ba64ff60bc47283e038bef78e26c89901bd88b71a1043f",
+      "bytes": 345053
+    },
+    "micrographs/micrograph909.tif": {
+      "sha256": "1fd5fab750cc75e21fe63ae0173bfd096812d349826c7440aafecdfaf37c1049",
+      "bytes": 345073
+    },
+    "micrographs/micrograph91.tif": {
+      "sha256": "cd15b2192cea03996144781432362bbb5474a6ea5192a9a1c88223ad879c7b6e",
+      "bytes": 345061
+    },
+    "micrographs/micrograph910.tif": {
+      "sha256": "c2cf342599d9da57d6ed685ffb872f63c49b1e7552a931b73a526349cbeda260",
+      "bytes": 345053
+    },
+    "micrographs/micrograph911.tif": {
+      "sha256": "86ddff4716a2cd9dd7359552b4721610102b8b3f04536a6b3d98ae25c7d52772",
+      "bytes": 345061
+    },
+    "micrographs/micrograph912.tif": {
+      "sha256": "ae393f4d2a1918a3468b55abde7251ac1c0d1e4c9f6d7968275a8fb3a7fde66e",
+      "bytes": 345069
+    },
+    "micrographs/micrograph914.tif": {
+      "sha256": "38c7f314339def0adaf0cb28a69e13917f4f1882d3d5275a568c65fef9c53eaf",
+      "bytes": 345069
+    },
+    "micrographs/micrograph915.tif": {
+      "sha256": "f538f77f39388cd6213acda9463f9471fab652db3a67adadf16b3ba0cbcfa6af",
+      "bytes": 345065
+    },
+    "micrographs/micrograph916.tif": {
+      "sha256": "ca688312d8e1574198f8965dffa5ba40d6b660c2969b76537641112823bf79bc",
+      "bytes": 345061
+    },
+    "micrographs/micrograph917.tif": {
+      "sha256": "167e553e5f433c609b509487fc05a3310062208069f9d7ffff1c3c150d0bd306",
+      "bytes": 345057
+    },
+    "micrographs/micrograph918.tif": {
+      "sha256": "a159d0b2cafee045f93fdcf229c8c6fed873f83e52c9a4d96ddf7a22c71471f3",
+      "bytes": 345061
+    },
+    "micrographs/micrograph920.tif": {
+      "sha256": "33fd25fce19fb25cb3b53a492e0029c594ba9a88365c8f94c536274decb73773",
+      "bytes": 345065
+    },
+    "micrographs/micrograph921.tif": {
+      "sha256": "5d988636d5d35b3c699fcc1617f80a8c36f6535ec68a02c500c076058fdc784b",
+      "bytes": 345065
+    },
+    "micrographs/micrograph922.tif": {
+      "sha256": "ea32e82bc452c2cfef96c0ced084ec65a2b74b45bc8f8cc3761951f37f263a82",
+      "bytes": 345053
+    },
+    "micrographs/micrograph925.tif": {
+      "sha256": "f42cd8e030aa1903655464d0f50ca3100d9085189d880f8f791a0171a228090f",
+      "bytes": 345057
+    },
+    "micrographs/micrograph926.tif": {
+      "sha256": "09cca4b7e3156d2b006a930a6b14fe5ccc3d2c4cd829a561cc3369b833574abc",
+      "bytes": 345057
+    },
+    "micrographs/micrograph927.tif": {
+      "sha256": "cf2743f53e25f7ca57e6fa22f2c0c3a3973267c9941e62a84f1fe90afa8fe853",
+      "bytes": 345061
+    },
+    "micrographs/micrograph928.tif": {
+      "sha256": "de15d7acb0942da258e6a6638cb12648766a5cbef8bf5e57ba917dcabffbd362",
+      "bytes": 345057
+    },
+    "micrographs/micrograph931.tif": {
+      "sha256": "3658409da207a5dc588457bef33a72e58581bb2543b9f71c35df66678d0c0000",
+      "bytes": 345061
+    },
+    "micrographs/micrograph932.tif": {
+      "sha256": "d6f4386b978009749cc10810506c4b6c12520c9332835b1f73b6559e621b2827",
+      "bytes": 345061
+    },
+    "micrographs/micrograph933.tif": {
+      "sha256": "d65d9dcbeab7a31155142874526a1cb8024c4f1706f3fcce14f139555fe91d0d",
+      "bytes": 345065
+    },
+    "micrographs/micrograph934.tif": {
+      "sha256": "d37adf5ab556ec2cada72da075c74d3412ad3b19eeafd952cc4c86cedc22c44e",
+      "bytes": 345073
+    },
+    "micrographs/micrograph935.tif": {
+      "sha256": "4dcf29af362e7fed6ff6b35594aab6e013586d43237d2edabb809916450bdc80",
+      "bytes": 345069
+    },
+    "micrographs/micrograph936.tif": {
+      "sha256": "f3fbee9bb5f04ddec686823ac9d158b1f84d3c1d379cfb194c7b794dcda2a7da",
+      "bytes": 345061
+    },
+    "micrographs/micrograph939.tif": {
+      "sha256": "8f5ab1aee1512ff78f82126dc5436a5c1014e829dd4b06aa982e62f7e918ba4c",
+      "bytes": 345069
+    },
+    "micrographs/micrograph941.tif": {
+      "sha256": "c7d4c03165b2ccb44ef8d57d5b0a5338315b1a945e27b357261044ab0f2fc8d3",
+      "bytes": 345057
+    },
+    "micrographs/micrograph947.tif": {
+      "sha256": "4be21059722619d16548852cecbce05ae3c603b3358d83b41656423d071d217c",
+      "bytes": 345069
+    },
+    "micrographs/micrograph949.tif": {
+      "sha256": "3d4d6de502260ee3e444f8adc50e2a6b493946b115a949b79c84df5e022e4df8",
+      "bytes": 345053
+    },
+    "micrographs/micrograph95.tif": {
+      "sha256": "066ea45609531e7305ac6a120bdec8874a95fbfb9f0ed735bba0d7743ab0def2",
+      "bytes": 345065
+    },
+    "micrographs/micrograph951.tif": {
+      "sha256": "7c298e782c3c2bdd510464e92ba7abb8ef3ec76c7f9a647f959c8f5cf43846d1",
+      "bytes": 345061
+    },
+    "micrographs/micrograph952.tif": {
+      "sha256": "181598c70ce3e15430ee18fadaf0018fc69a3bdfc4e100f7a150e2e148115359",
+      "bytes": 345057
+    },
+    "micrographs/micrograph953.tif": {
+      "sha256": "83b68a99fa65fef822dfe25c230b6e4a9bc697497f8b8fe6860b709cb5ddb8e9",
+      "bytes": 345061
+    },
+    "micrographs/micrograph954.tif": {
+      "sha256": "933142c837ade95ff3549442b4b0904f2a55e45993e5657d8bbdcd103094d2b5",
+      "bytes": 345073
+    },
+    "micrographs/micrograph955.tif": {
+      "sha256": "6e4995d9ec0126ceb46dde8a708683a83e72d35ba5528897e608eb6e7e1dfbca",
+      "bytes": 345057
+    },
+    "micrographs/micrograph956.png": {
+      "sha256": "10691fb746fadf689700c78a9f1eb112abeaa219c035c8abc3616e3f9b310fa4",
+      "bytes": 284054
+    },
+    "micrographs/micrograph959.tif": {
+      "sha256": "dc0549bf338aec86fad6554db45cc8e9091bc2187f00f37105672dd04cba3d97",
+      "bytes": 345061
+    },
+    "micrographs/micrograph961.tif": {
+      "sha256": "24d8027b2a0159d593a7f0bdf0311efe2f60af20b41d14d012e409ff88513a42",
+      "bytes": 345053
+    },
+    "micrographs/micrograph963.tif": {
+      "sha256": "4f7c1c6c66bf1670c837fa979634bba47cd2a68602c43a7902f9367afb32119f",
+      "bytes": 345065
+    },
+    "micrographs/micrograph965.tif": {
+      "sha256": "d8074757b76b1b47563961d70885e40b2b8389a41887636b7282c1107295bbe7",
+      "bytes": 345053
+    },
+    "micrographs/micrograph967.tif": {
+      "sha256": "10e6220e111a229e299d26e2f9779d91bc0e73af4c0ce77f335f132e8f6edc8e",
+      "bytes": 345069
+    },
+    "micrographs/micrograph968.tif": {
+      "sha256": "fdbbdf20f8cbdf6e2905fe7177cd385f6828611eae6bc08db62c61386cdb1cff",
+      "bytes": 345057
+    },
+    "micrographs/micrograph97.tif": {
+      "sha256": "c6435e03e3f4d106745845f2416c421d518ec7922144b45dcbca147267477960",
+      "bytes": 345061
+    },
+    "micrographs/micrograph970.tif": {
+      "sha256": "de6e59c3e1714b0ffb40141bbc14509278a52c3b3cc99ac8bac232841a2739c4",
+      "bytes": 345053
+    },
+    "micrographs/micrograph971.tif": {
+      "sha256": "8cd19364a342d63e44b9fd82be0f95adc935e094cefd0a49600af35956c7a6ce",
+      "bytes": 345057
+    },
+    "micrographs/micrograph973.tif": {
+      "sha256": "767aa184a0ecde75c0840e13b0c465728ee963792a3523d3860dea5e962fafb6",
+      "bytes": 345065
+    },
+    "micrographs/micrograph974.tif": {
+      "sha256": "548dff92e7756bda00bdcea8b275f69fe65436b42194a89c1aba166714fc3695",
+      "bytes": 345061
+    },
+    "micrographs/micrograph98.tif": {
+      "sha256": "8ce62274638bf66494a0ba08ac30c37ee2d4548d6613453f14754e30c9c038af",
+      "bytes": 345053
+    },
+    "micrographs/micrograph984.tif": {
+      "sha256": "626b85849f5482d713876d680572e3b9b0d432e9651c757f7de7524d9b4b99cf",
+      "bytes": 345073
+    },
+    "micrographs/micrograph985.tif": {
+      "sha256": "a69ba9c2e784a87ae2c06f5200fa8b6f636ab489cb1a01d35ccba0bd93b916a8",
+      "bytes": 345065
+    },
+    "micrographs/micrograph986.tif": {
+      "sha256": "8319984f51dd93a261ae9c6993e861ccc60e308f32621158e5f1d2d780c72922",
+      "bytes": 345065
+    },
+    "micrographs/micrograph989.tif": {
+      "sha256": "c50868f18cd894c6ffa847335eabc41820e3c9aa5239682d691ad3c94913d15a",
+      "bytes": 345065
+    },
+    "micrographs/micrograph99.tif": {
+      "sha256": "b5f2d96b1dcf889eb84effe95bdcc90bdb5f7af2db31f480b9a92c0068e579ad",
+      "bytes": 345073
+    },
+    "micrographs/micrograph990.tif": {
+      "sha256": "bf7efaa4163ab393dd90fbe54bfed966ee7f209d36e6bd55c730947e9e949b22",
+      "bytes": 345069
+    },
+    "micrographs/micrograph991.tif": {
+      "sha256": "329927fa3f140ee3e348c06d307af072fcc01379a34d255949896cb524f50caf",
+      "bytes": 345061
+    },
+    "micrographs/micrograph994.tif": {
+      "sha256": "d98e81b0027af03a10b11a0c48cefcf3631beea971ad905c749fad79ae9a5929",
+      "bytes": 345053
+    },
+    "micrographs/micrograph995.tif": {
+      "sha256": "6ecb2c39b06012b745cd1eb21c65556c1f2f6016864d65395cccd44540e2db6d",
+      "bytes": 345057
+    },
+    "micrographs/micrograph997.tif": {
+      "sha256": "173c3857e4baae9d1c0525d0ebc0444153fc96a54327c9fbcc5b3a50a2b90d0e",
+      "bytes": 345065
+    },
+    "micrographs/micrograph998.tif": {
+      "sha256": "ee7985319fa806ad2c8b71f9892d4a9257ae40941c543aaaa4953b144cda5dc4",
+      "bytes": 345061
+    },
+    "micrographs/micrograph999.tif": {
+      "sha256": "303496d4c2d41a59b2d15dfac2c3f18ee37803e9c44b08f739129fdb516f7d29",
+      "bytes": 345061
+    },
+    "provenance/materialsdata-nist-handle-11256-940_20230108232657.html": {
+      "sha256": "7a9c1ba05a1d253add033f26c56f76c330b4c55fe9dbd99af529e47b02f3fe3d",
+      "bytes": 36905
+    },
+    "provenance/original-README.md": {
+      "sha256": "c7698c8db560c897b494202d6c0277b77263c7276c7ae888b52171ee5986b7f3",
+      "bytes": 1442
+    }
+  }
+}
