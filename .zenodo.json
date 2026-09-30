@@ -1,0 +1,26 @@
+{
+  "title": "UHCS micrographs mirror: ultrahigh carbon steel SEM micrographs (UHCSDB), redistributed under CC BY 3.0 US",
+  "upload_type": "dataset",
+  "description": "<p>A mirror of the ultrahigh carbon steel (UHCS) micrograph dataset (961 SEM micrographs from 43 samples, with processing and imaging metadata), originally distributed at NIST Materials Data Repository (hdl:11256/940). The original distribution page and the exploration site (uhcsdb.materials.cmu.edu) no longer respond, so the data were retrieved from the Internet Archive and redistributed under the original license (CC BY 3.0 US).</p><p>Contents: micrographs/ (images), metadata.csv (microconstituent labels, detector, magnification, scale bar, sample key, annealing conditions), manifest.json (sha256 of every file), provenance/ (snapshot of the original distribution page that states the license).</p><p>Please cite the original data descriptor: B. L. DeCost, M. D. Hecht, T. Francis, B. A. Webler, Y. N. Picard, E. A. Holm, UHCSDB: UltraHigh Carbon Steel Micrograph DataBase, Integrating Materials and Manufacturing Innovation 6, 197-205 (2017). doi:10.1007/s40192-017-0097-0</p><p>Note: split by sample (sample_key), not by image; images from the same sample on both sides of a split inflate performance.</p>",
+  "creators": [
+    {"name": "Hecht, Matthew D."},
+    {"name": "DeCost, Brian L."},
+    {"name": "Francis, Toby"},
+    {"name": "Holm, Elizabeth A."},
+    {"name": "Picard, Yoosuf N."},
+    {"name": "Webler, Bryan A."}
+  ],
+  "contributors": [
+    {"name": "安尾, 信明", "type": "DataCurator"}
+  ],
+  "license": "cc-by-3.0-us",
+  "access_right": "open",
+  "keywords": ["ultrahigh carbon steel", "SEM", "micrograph", "microstructure", "materials informatics", "UHCSDB"],
+  "related_identifiers": [
+    {"identifier": "10.1007/s40192-017-0097-0", "relation": "isDocumentedBy", "scheme": "doi", "resource_type": "publication-article"},
+    {"identifier": "http://hdl.handle.net/11256/940", "relation": "isDerivedFrom", "scheme": "url", "resource_type": "dataset"},
+    {"identifier": "https://web.archive.org/web/20230108232657/https://materialsdata.nist.gov/handle/11256/940", "relation": "isDerivedFrom", "scheme": "url"}
+  ],
+  "version": "1.0.0",
+  "notes": "Mirror maintained by the curator. The original authors are listed as creators; the curator only retrieved, verified (sha256) and repackaged the files."
+}
