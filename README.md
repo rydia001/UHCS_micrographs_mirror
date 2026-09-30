@@ -1,5 +1,7 @@
 # UHCS micrographs mirror
 
+[![DOI](https://zenodo.org/badge/1376795207.svg)](https://doi.org/10.5281/zenodo.23050463)
+
 超高炭素鋼（ultrahigh carbon steel）の SEM 像データセットのミラー。
 
 ## なぜミラーか
@@ -25,6 +27,8 @@
 Creative Commons Attribution 3.0 United States (CC BY 3.0 US)（https://creativecommons.org/licenses/by/3.0/us/）。利用時は次を引用すること。
 
 > B. L. DeCost, M. D. Hecht, T. Francis, B. A. Webler, Y. N. Picard, E. A. Holm, UHCSDB: UltraHigh Carbon Steel Micrograph DataBase, Integrating Materials and Manufacturing Innovation 6, 197-205 (2017). doi:10.1007/s40192-017-0097-0
+
+このミラー自体は Zenodo に版ごとに保管してある（全版: doi:10.5281/zenodo.23050463、v1.0.0: doi:10.5281/zenodo.23050464）。データを引用するときは上の論文を、入手経路を示すときはこの DOI を書く。
 
 オリジナルの配布ページのスナップショット: https://web.archive.org/web/20230108232657/https://materialsdata.nist.gov/handle/11256/940
 
